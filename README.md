@@ -4,7 +4,7 @@ Minimal repo based on [Slidev](http://sli.dev/) to create EduBricks-based slide 
 
 Idea:
   - this repo only handles slides and styles (no assets, no images)
-  - images are important from elsewhere
+  - images are imported from elsewhere
 
 
 ### Slidev
