@@ -135,7 +135,7 @@ layout: default
 
 ## OLS: Finding the right metadata vocabulary
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/teaching-ontologies/ontology-lookup-service.svg" width="900px"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/ontologies/ontology-lookup-service.svg" width="900px"/>
 
 Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
