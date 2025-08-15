@@ -18,6 +18,6 @@ Sabrina Zander, [MibiNet](https://www.sfb1535.hhu.de/projects/research-area-z/z0
 Stella Eggels, [DataPLANT](https://nfdi4plants.org)  
 
 <div class="flex items-center absolute right-30px bottom-30px">
-  <img style="height:40px;margin-right:50px" src='/images-tm/ceplas/logos/CEPLAS-Logo.svg'/>
-  <img style="height:100px;margin-right:50px" src='/images-tm/dataplant/DataPLANT_logo_bg_transparent.svg'/>
+  <img style="height:40px;margin-right:50px" src='https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/ceplas/logos/CEPLAS-Logo.svg'/>
+  <img style="height:100px;margin-right:50px" src='https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/dataplant/DataPLANT_logo_bg_transparent.svg'/>
 </div>

@@ -41,7 +41,7 @@ layout: three-columns
 
 ::right::
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg" width="300px"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-sop-proteomics.svg" width="300px"/>
 
 ---
 layout: default
@@ -49,7 +49,7 @@ layout: default
 
 ## Applying standard procedures to sample record
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-sop.svg" />
 
 ---
 layout: default
@@ -57,7 +57,7 @@ layout: default
 
 ## Realization of lab-specific metadata with templates
 
-<img src="/images-tm/swate-metadatatemplates.png" style="width:700px;" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/swate/swate-metadatatemplates.png" style="width:700px;" />
 
 Facilities can define their most common workflows as templates
 
@@ -67,7 +67,7 @@ layout: default
 
 ## Options to annotate the data analysis
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows1.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows1.svg" />
 
 ---
 layout: default
@@ -75,7 +75,7 @@ layout: default
 
 ## A computational workflow is like a protocol
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows2.svg" />
 
 ---
 layout: default
@@ -83,7 +83,7 @@ layout: default
 
 ## Option I: Create a virtual assay
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-virtual.svg" />
 
 ---
 layout: default
@@ -91,7 +91,7 @@ layout: default
 
 ## Option II: Create a workflow and run
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-cwl1.svg" />
 
 ---
 layout: default
@@ -99,7 +99,7 @@ layout: default
 
 ## Use CWL to wrap your workflow
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-cwl2.svg" />
 
 ---
 layout: default
@@ -109,7 +109,7 @@ layout: default
 
 Mechanisms to annotate the result data
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-datamap.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-datamap.svg" />
 
 
 ---
@@ -120,7 +120,7 @@ layout: default
 
 Connecting samples to data points
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-datamap-fragment-selectors1.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-datamap-fragment-selectors1.svg" />
 
 
 ---
@@ -131,7 +131,7 @@ layout: center
 
 Annotating contents of result files
 
-<img style="display:block; width:80%" src="/kb/src/assets/images/start-here/arc-prototypic-datamap-fragment-selectors2.svg" />
+<img style="display:block; width:80%" src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-datamap-fragment-selectors2.svg" />
 
 
 ---

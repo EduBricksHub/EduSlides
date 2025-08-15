@@ -9,7 +9,7 @@ const logos = ref([
     width: 40 
   },
   {
-    src: "/images-tm/ceplas/logos/CEPLAS_Icon.jpeg", 
+    src: "https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/ceplas/logos/CEPLAS_Icon.jpeg", 
     alt: "CEPLAS Logo", 
     width: 30 
   },

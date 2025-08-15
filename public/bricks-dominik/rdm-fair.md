@@ -17,7 +17,7 @@ layout: two-cols
 
 ::right::
 
-![](/images-tm/wilkinson2016-fair.png)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/wilkinson2016-fair.png)
 
 https://doi.org/10.1038/sdata.2016.18
 
@@ -27,7 +27,7 @@ layout: default
 
 ## The FAIR principles
 
-<img src=/images-tm/ceplas/fair-benefits.png style="width: 1100px; height: 450px; object-fit: cover;"/>
+<img src=https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/ceplas/fair-benefits.png style="width: 1100px; height: 450px; object-fit: cover;"/>
 
 ---
 layout: two-cols
@@ -45,4 +45,4 @@ layout: two-cols
 
 ::right::
 
-![](/images-tm/user-challenges-002.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/user-challenges-002.svg)

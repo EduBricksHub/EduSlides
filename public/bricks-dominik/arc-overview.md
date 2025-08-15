@@ -10,7 +10,7 @@ layout: default
 
 # Annotated Research Context (ARC)
 
-<img src="/kb/src/assets/images/start-here/arc-bag.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-bag.svg" />
 
 Your entire investigation in a single unified bag
 
@@ -20,7 +20,7 @@ layout: default
 
 ## The ARC scaffold structure
 
-<img src="/kb/src/assets/images/start-here/arc-scaffold.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-scaffold.svg" />
 
 ---
 layout: two-columns
@@ -33,7 +33,7 @@ layout: default
 
 ## ISA abstract model in a nutshell
 
-<img src="/kb/src/assets/images/start-here/standards-isa-in-a-nutshell.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/standards-isa-in-a-nutshell.svg" />
 
 ---
 layout: default
@@ -41,7 +41,7 @@ layout: default
 
 ## ISA and CWL – Connected by similarity
 
-<img src="/kb/src/assets/images/start-here/standards-isa-cwl.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/standards-isa-cwl.svg" />
 
 ---
 layout: default
@@ -49,7 +49,7 @@ layout: default
 
 ## Metadata annotation – from sample to data
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic.svg" />
 
 ---
 layout: default
@@ -57,7 +57,7 @@ layout: default
 
 ## Modular separation of experimental processes
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-identify.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-identify.svg" />
 
 ---
 layout: default
@@ -65,7 +65,7 @@ layout: default
 
 ## Modular separation of experimental processes
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-modular2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-modular2.svg" />
 
 ---
 layout: default
@@ -73,7 +73,7 @@ layout: default
 
 ## Applying standard procedures to sample record
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-sop.svg" />
 
 ---
 layout: default
@@ -81,7 +81,7 @@ layout: default
 
 ## Realization of lab-specific metadata with templates
 
-<img src="/images-tm/swate-metadatatemplates.png"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/swate-metadatatemplates.png"/>
 
 Facilities can define their most common workflows as templates
 
@@ -91,7 +91,7 @@ layout: default
 
 ## Data analysis: CWL workflows and runs
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-cwl1.svg" />
 
 ---
 layout: default
@@ -99,7 +99,7 @@ layout: default
 
 ## Metadata annotation – from data to result
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-cwl2.svg" />
 
 ---
 layout: default
@@ -109,7 +109,7 @@ layout: default
 
 The ARC is a **data-centric** approach to RDM
 
-<img src="/images-tm/arc-data-centric-everything-is-a-file.drawio.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/arc-data-centric-everything-is-a-file.drawio.svg" />
 
 ---
 layout: default
@@ -117,7 +117,7 @@ layout: default
 
 ## No technical lock-in
 
-<img src="/images-tm/arc-tool-assistance.drawio.svg" style="width:900px;display: block; margin: auto;margin-top:150px"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/arc-tool-assistance.drawio.svg" style="width:900px;display: block; margin: auto;margin-top:150px"/>
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
 
@@ -127,7 +127,7 @@ layout: default
 
 ## Two representations of the ARC
 
-<img src="/images-tm/ro-crate-vs-scaffold.png" style="width:900px;display: block; margin: auto;margin-top:100px" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/ro-crate-vs-scaffold.png" style="width:900px;display: block; margin: auto;margin-top:100px" />
 
 ---
 layout: two-columns
@@ -196,5 +196,5 @@ layout: two-columns
 
   **"User View": ARC Scaffold and metadata tables**
 
-  <img src="/images-tm/two-sides-01-user.png" style="padding-bottom:20px"/>
-  <img src="/images-tm/two-sides-02-user.png" />
+  <img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/two-sides-01-user.png" style="padding-bottom:20px"/>
+  <img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/two-sides-02-user.png" />

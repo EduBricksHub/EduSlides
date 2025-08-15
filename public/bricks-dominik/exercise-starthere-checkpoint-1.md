@@ -37,7 +37,7 @@ layout: default
 
 ## ARC: Annotated research context
 
-<img src="/kb/src/assets/images/start-here/arc-bag.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-bag.svg" />
 
 ---
 layout: default
@@ -46,7 +46,7 @@ layout: default
 
 ## The ARC scaffold structure
 
-<img src="/kb/src/assets/images/start-here/arc-scaffold.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-scaffold.svg" />
 
 ---
 layout: default
@@ -54,7 +54,7 @@ layout: default
 
 ## A small prototypic project
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic.svg" />
 
 ---
 layout: default
@@ -62,7 +62,7 @@ layout: default
 
 ## Divide and conquer for reproducibility
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-study-divide-conquer.svg" />
 
 ---
 layout: default
@@ -70,7 +70,7 @@ layout: default
 
 ## Identifying the ‘study’ part
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-study-identify.svg"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-study-identify.svg"/>
 
 ---
 layout: default
@@ -78,7 +78,7 @@ layout: default
 
 ## A table-based organization schema
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-metadata-table-representation.svg" />
 
 ---
 layout: two-columns
@@ -96,7 +96,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ::right::
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-study-protocolref.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-study-protocolref.svg" />
 
 ---
 layout: default
@@ -104,7 +104,7 @@ layout: default
 
 ## Parameterizing the ‘study’
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-study-parameterization.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-study-parameterization.svg" />
 
 ---
 layout: two-columns
@@ -135,7 +135,7 @@ layout: default
 
 ## OLS: Finding the right metadata vocabulary
 
-<img src="/images-tm/teaching-ontologies/ontology-lookup-service.svg" width="900px"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/teaching-ontologies/ontology-lookup-service.svg" width="900px"/>
 
 Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
@@ -145,7 +145,7 @@ layout: default
 
 ## Finding the metadata vocabulary and descriptors
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-metadata.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-metadata.svg" />
 
 ---
 layout: two-columns

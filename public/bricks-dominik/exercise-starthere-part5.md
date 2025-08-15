@@ -4,7 +4,7 @@ layout: default
 
 # Hands-on part 5: ARC data publication
 
-![](/images-tm/fairdata-classicalpublication.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/fairdata-classicalpublication.svg)
 
 ---
 layout: default
@@ -14,7 +14,7 @@ layout: default
 ## Moving from paper to data publications
 
 
-![](/images-tm/data-publications/publication-fair-data-publication.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/data-publications/publication-fair-data-publication.svg)
 
 ---
 layout: default
@@ -22,7 +22,7 @@ layout: default
 
 ## Publish your ARC, get a DOI
 
-![](/images-tm/arc-seamlesspublication.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/arc-seamlesspublication.svg)
 
 ---
 layout: default
@@ -30,7 +30,7 @@ layout: default
 
 ## Publish your ARC with a few clicks
 
-![](/kb/src/assets/images/data-publications/cqc-results.png)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/data-publications/cqc-results.png)
 
 ---
 layout: default
@@ -38,7 +38,7 @@ layout: default
 
 # Validate & publish
 
-<img src="/images-tm/tpj16474-fig-0008-m.jpg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/tpj16474-fig-0008-m.jpg" />
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -48,7 +48,7 @@ layout: default
 
 ## Validation towards publication
 
-<img src="/images-tm/data-publications/publication-validation.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/data-publications/publication-validation.svg" />
 
 ---
 layout: default
@@ -56,7 +56,7 @@ layout: default
 
 ## Receive a DOI
 
-![](/kb/src/assets/images/data-publications/doi-accession.png)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/data-publications/doi-accession.png)
 
 ---
 layout: center

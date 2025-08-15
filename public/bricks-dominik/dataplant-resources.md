@@ -45,7 +45,7 @@ layout: four-panels
 
 
 
-<img src='/images-tm/dataplant/DataPLANT_logo_bg_transparent.svg'
+<img src='https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/dataplant/DataPLANT_logo_bg_transparent.svg'
     style="
     position: absolute;
     top: 40px;

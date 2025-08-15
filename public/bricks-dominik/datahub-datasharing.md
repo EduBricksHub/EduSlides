@@ -21,7 +21,7 @@ layout: default
 
 When inviting new members to an ARC or group, you can choose between different levels.
 
-<img src="/images-tm/arc-sharing-permissionsroles.drawio.svg" width="800px">
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/datahub/arc-sharing-permissionsroles.drawio.svg" width="800px">
 
 💡 By default you are **Owner** of an ARC you create or upload to the DataHUB.
 
@@ -60,7 +60,7 @@ layout: default
 
 ## Options to share an ARC via the DataHUB
 
-<img src="/images-tm/arc-sharing-options.drawio.svg" width="600px">
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/datahub/arc-sharing-options.drawio.svg" width="600px">
 
 ---
 layout: default
@@ -88,7 +88,7 @@ layout: default
 
 The visibility of ARCs and groups can be managed individually for each ARC or group
   
-<img src="/images-tm/arc-sharing-visibility.drawio.svg" width=800px>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/datahub/arc-sharing-visibility.drawio.svg" width=800px>
 
 💡 By default every ARC and every group is set to **private**.
 
@@ -98,7 +98,7 @@ layout: default
 
 ## ARC DataHUB members // ARC Investigation contacts
 
-![](/images-tm/arc-sharing-membersvscontacts.drawio.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/datahub/arc-sharing-membersvscontacts.drawio.svg)
 
 💡 Investigation contacts are not automatically invited as members to the ARC.
 
@@ -110,4 +110,4 @@ layout: default
 
 Check out the **commit history** of your ARC via Repository (2) or directly via commits (7)
 
-![](/images-tm/datahub/datahub-arc-overview.drawio.svg)
+![](https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/datahub/datahub-arc-overview.drawio.svg)

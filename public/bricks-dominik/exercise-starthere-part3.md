@@ -11,7 +11,7 @@ layout: default
 
 ## Options to annotate the data analysis
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows1.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows1.svg" />
 
 ---
 layout: default
@@ -20,7 +20,7 @@ layout: default
 
 ## A computational workflow is like a protocol
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows2.svg" />
 
 ---
 layout: default
@@ -28,7 +28,7 @@ layout: default
 
 ## Option I: Create a virtual assay
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-virtual.svg" />
 
 ---
 layout: default
@@ -37,7 +37,7 @@ layout: default
 
 ## Option II: Create a workflow and run
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-cwl1.svg" />
 
 ---
 layout: default
@@ -46,7 +46,7 @@ layout: default
 
 ## Use CWL to wrap your workflow
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-workflows-cwl2.svg" />
 
 ---
 layout: center

@@ -11,7 +11,7 @@ layout: default
 
 ## Identifying assays
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-identify.svg"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-identify.svg"/>
 
 ---
 layout: default
@@ -19,7 +19,7 @@ layout: default
 
 ## Assay for sugar measurement
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sugar.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-sugar.svg" />
 
 ---
 layout: default
@@ -27,7 +27,7 @@ layout: default
 
 ## Separating different assay elements
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-modular2.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-modular2.svg" />
 
 ---
 layout: default
@@ -35,7 +35,7 @@ layout: default
 
 ## Isolating the lab processes in an assay
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-modular1.svg"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-modular1.svg"/>
 
 ---
 layout: two-columns
@@ -52,7 +52,7 @@ layout: two-columns
 
 ::right::
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-labprocess1-extraction.svg" />
 
 ---
 layout: two-columns
@@ -73,7 +73,7 @@ layout: two-columns
 
 ::right::
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-labprocess2-measurement.svg" />
 
 ---
 layout: three-columns
@@ -105,7 +105,7 @@ layout: three-columns
 
 ::right::
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg" width="300px"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-sop-proteomics.svg" width="300px"/>
 
 ---
 layout: default
@@ -113,7 +113,7 @@ layout: default
 
 ## Applying standard procedures to sample record
 
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/start-here/arc-prototypic-assay-sop.svg" />
 
 ---
 layout: default
@@ -121,7 +121,7 @@ layout: default
 
 # Realization of lab-specific metadata with templates
 
-<img src="/images-tm/swate-metadatatemplates.png" style="width:700px;" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/swate-metadatatemplates.png" style="width:700px;" />
 
 Facilities can define their most common workflows as templates
 
