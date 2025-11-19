@@ -20,6 +20,14 @@ src: './custom/00-title.md'
 author: Dominik Brilhaus
 ---
 
+
+---
+src: ../../bricks/001-arc-standards.md
+---
+
+
+
+
 <!-- 
   
   ---
