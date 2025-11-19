@@ -2,3 +2,6 @@
 	path = public/kb
 	url = https://github.com/nfdi4plants/nfdi4plants.knowledgebase/
 	branch = main
+[submodule "bricks"]
+	path = bricks
+	url = https://github.com/EduBricksHub/EduBricks
