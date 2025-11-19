@@ -5,11 +5,11 @@ themeConfig:
   paginationY: b
   paginationPagesDisabled: [ 1 ]
   logoPagesDisabled: [ 1 ]
-coverDate: September 9th, 2025
+coverDate: November 19th, 2025
 fonts:
   sans: Gulim
 canvasWidth: 1200
-title: ARCify your research project
+title: Intro to RDM
 transition: slide-left
 favicon: images-tm/dataplant/DataPLANT_logo_minimal_rounded_bg_darkblue.svg
 drawings:
@@ -22,11 +22,12 @@ author: Dominik Brilhaus
 
 
 ---
-src: ../../bricks/001-arc-standards.md
+src: '../../bricks/EduPaths/data-life-cycle.md'
 ---
 
-
-
+---
+src: '../../bricks/EduPaths/arc-overview.md'
+---
 
 <!-- 
   
@@ -81,24 +82,22 @@ src: ../../bricks/001-arc-standards.md
   ---
   src: './custom/goal.md'
   ---
-
--->
-
----
-src: '../../public/bricks-dominik/exercise-starthere-checkpoint-1.md'
----
-
----
-src: '../../public/bricks-dominik/exercise-starthere-checkpoint-2.md'
----
-
----
-src: '../../public/bricks-dominik/exercise-starthere-checkpoint-3.md'
----
-
- <!-- 
-
-
+  
+  ---
+  src: '../../public/bricks-dominik/exercise-starthere-checkpoint-1.md'
+  ---
+  
+  ---
+  src: '../../public/bricks-dominik/exercise-starthere-checkpoint-2.md'
+  ---
+  
+  ---
+  src: '../../public/bricks-dominik/exercise-starthere-checkpoint-3.md'
+  ---
+  
+  
+  
+  
   ---
   src: '../../public/bricks-dominik/exercise-starthere-checkpoint-4.md'
   ---

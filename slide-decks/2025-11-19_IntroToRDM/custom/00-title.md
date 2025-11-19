@@ -5,17 +5,14 @@ author:
     github: https://github.com/brilator
     orcid: https://orcid.org/0000-0001-9021-3197
 layout: cover
-title: ARCify your research project
+title: Intro to RDM
 ---
 
-# ARCify your research project
+# Intro to RDM
 
-## Hands-on ARC introduction @ AG Frommer, HHU
-<!-- May 15<sup>th</sup>, 2025 -->
+## Example Slide Deck to show-case the Edu[Bricks|Paths] concept
 
 Dominik Brilhaus, [CEPLAS](https://www.ceplas.eu/en/research/ceplas-data)  
-Sabrina Zander, [MibiNet](https://www.sfb1535.hhu.de/projects/research-area-z/z03)  
-Stella Eggels, [DataPLANT](https://nfdi4plants.org)  
 
 <div class="flex items-center absolute right-30px bottom-30px">
   <img style="height:40px;margin-right:50px" src='https://raw.githubusercontent.com/EduBricksHub/images/a81d3e5f58edd27a559057f496b6ce043afb984e/ceplas/logos/CEPLAS-Logo.svg'/>
