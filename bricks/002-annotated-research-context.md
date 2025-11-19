@@ -1,7 +1,5 @@
 ---
-author: 
 layout: default
-date: 
 ---
 
 # Annotated Research Context (ARC)
