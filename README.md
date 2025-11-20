@@ -29,7 +29,7 @@ This should open a browser with the presentation, including some presentation co
 (Note: this will only work, if above `git submodule` (i.e. the images from knowledge base) are correctly added.)
 
 ```bash
-npm run dev -- slide-decks/2025-09-09_ceplas-arcify/slides.md
+npm run dev -- slide-decks/2025-11-19_IntroToRDM/slides.md
 ```
 
 #### Export a slidev slide deck to pdf
@@ -37,5 +37,5 @@ npm run dev -- slide-decks/2025-09-09_ceplas-arcify/slides.md
 You can directly export a slide deck to pdf using slidev's browser controls or use the export command, e.g.
 
 ```bash
-npm run export -- slide-decks/2025-09-09_ceplas-arcify/slides.md --output slide-decks/2025-09-09_ceplas-arcify/slides.pdf
+npm run export -- slide-decks/2025-11-19_IntroToRDM/slides.md --output slide-decks/2025-11-19_IntroToRDM/slides.pdf
 ```
