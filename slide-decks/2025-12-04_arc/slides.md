@@ -16,8 +16,8 @@ drawings:
   enabled: true
   persist: false
 layout: cover
-src: './custom/00-title.md'
 author: Dominik Brilhaus
+src: './custom/00-title.md'
 ---
 
 ---
