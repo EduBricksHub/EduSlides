@@ -11,7 +11,7 @@ fonts:
 canvasWidth: 1200
 title: Intro to RDM
 transition: slide-left
-favicon: images-tm/dataplant/DataPLANT_logo_minimal_rounded_bg_darkblue.svg
+favicon: https://raw.githubusercontent.com/nfdi4plants/Branding/refs/heads/master/icons/DataPLANT/favicons/favicon_bg_darkblue.png
 drawings:
   enabled: true
   persist: false
