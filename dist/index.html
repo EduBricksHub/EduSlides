@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Slide Decks</title>
+  <title>EduBricks based Slide Decks</title>
   <style>
     body {
       font-family: system-ui, sans-serif;
@@ -12,57 +12,34 @@
       padding: 0 1rem;
       line-height: 1.6;
     }
-    h1 { font-size: 2rem; }
-    ul { list-style: none; padding: 0; }
-    li { margin: 0.5rem 0; }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.5rem 0;
+    }
     a {
       text-decoration: none;
-      color: #0366d6;
       font-size: 1.2rem;
+      color: #0366d6;
     }
-    a:hover { text-decoration: underline; }
-    .loading { color: #666; }
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
-  <h1>📚 My Slide Decks</h1>
-  <p class="loading">Loading decks…</p>
-  <ul id="deck-list"></ul>
+  <h1>Work In Progress</h1>
+  <h2>Example Slide Decks built from EduBricks and EduPaths</h2>
 
-  <script>
-    const user = "EduBricksHub";
-    const repo = "slide-decks";
-    const branch = "main";   // change if using a different branch
-
-    const distUrl = `https://api.github.com/repos/${user}/${repo}/contents/dist?ref=${branch}`;
-
-    async function loadDecks() {
-      try {
-        const response = await fetch(distUrl);
-        const items = await response.json();
-
-        const list = document.getElementById("deck-list");
-        const loading = document.querySelector(".loading");
-
-        loading.remove();
-
-        items
-          .filter(item => item.type === "dir") // only directories
-          .forEach(folder => {
-            const li = document.createElement("li");
-            const a = document.createElement("a");
-            a.href = `./${folder.name}/`;
-            a.textContent = folder.name;
-            li.appendChild(a);
-            list.appendChild(li);
-          });
-      } catch (err) {
-        document.querySelector(".loading").textContent =
-          "Failed to load deck list.";
-      }
-    }
-
-    loadDecks();
-  </script>
+  <ul>
+    <li><a href="./deck1/">Deck 1: Introduction to RDM</a></li>
+    <li><a href="./deck2/">Deck 2: Intro to ARCs</a></li>
+  </ul>
 </body>
 </html>
