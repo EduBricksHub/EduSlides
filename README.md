@@ -17,18 +17,20 @@ Contributions are very welcome. Please check the [contribution guide](./CONTRIBU
 ## Overall Design
 
 ```mermaid
-graph LR
+graph TD
 
-  subgraph IMG[Images Repository]
+  subgraph IMG[EduImages]
     IMG1
     IMG2
     IMG3
   end
 
-  subgraph EB[EduBricks-EduPaths Repository]
-    EB1[EduBrick 1]
-    EB2[EduBrick 2]
-    EB3[EduBrick 3]
+  subgraph EBEP[EduBricks-EduPaths]
+    subgraph EduBricks    
+      EB1[EduBrick 1]
+      EB2[EduBrick 2]
+      EB3[EduBrick 3]
+    end
     
     subgraph EduPaths
       EP1[EduPath A]
@@ -37,15 +39,15 @@ graph LR
 
   end
 
-
-  subgraph this[This Repository: EduSlides]
+  subgraph EduSlides
     SD[Slide Deck]
   end
 
   IMG1 --html-src--> EB1
   IMG2 --html-src--> EB2
   IMG3 --html-src--> EB3
-  EB --Git-Submodule--> this
+  
+  EBEP --Git-Submodule--> EduSlides
 
   EB1 --src--> EP1
   EB2 --src--> EP1

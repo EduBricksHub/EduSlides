@@ -22,9 +22,9 @@ src: './custom/00-title.md'
 
 
 ---
-src: '../../bricks/EduPaths/data-life-cycle.md'
+src: '../../EduBricks-EduPaths/EduPaths/data-life-cycle.md'
 ---
 
 ---
-src: '../../bricks/EduPaths/arc-overview.md'
+src: '../../EduBricks-EduPaths/EduPaths/arc-overview.md'
 ---

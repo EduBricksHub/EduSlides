@@ -35,7 +35,7 @@ src: 'path/to/slide'
 E.g.
 
 ---
-src: '../../bricks/bricks/my-brick.md'
+src: '../../EduBricks-EduPaths/EduBricks/my-brick.md'
 ---
 
 
