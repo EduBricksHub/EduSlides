@@ -2,7 +2,7 @@
 
 *EduBricks*-based slide decks for FAIR asset reuse. :stars:
 
-Please visit https://edubrickshub.github.io/slide-decks/ to find the example slide decks.
+Please visit https://edubrickshub.github.io/EduSlides/ to find the example slide decks.
 
 ## Idea
 
