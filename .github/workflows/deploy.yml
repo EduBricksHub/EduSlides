@@ -29,8 +29,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build
-        run: npm run build -- --base /${{github.event.repository.name}}/
+      - name: Build Deck1
+        run: npm run build:deck1 -- --base /${{github.event.repository.name}}/deck1
+      
+      - name: Build Deck2
+        run: npm run build:deck2 -- --base /${{github.event.repository.name}}/deck2
 
       - uses: actions/configure-pages@v4
 
