@@ -4,8 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
+    
+    "dev:deck1": "slidev --open slide-decks/2025-11-19_intro-rdm/slides.md",
     "build:deck1": "slidev build --out public/deck1 slide-decks/2025-11-19_intro-rdm/slides.md",
-    "build": "npm run build:deck1"
+        
+    "dev:deck2": "slidev --open slide-decks/2025-12-04_arc/slides.md",
+    "build:deck2": "slidev build --out public/deck1 slide-decks/2025-12-04_arc/slides.md",
+    
+    "build": "npm run build:deck1 && build:deck2"
   },  
     "dependencies": {
     "@iconify/vue": "latest",
