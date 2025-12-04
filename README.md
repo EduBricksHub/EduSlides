@@ -17,7 +17,7 @@ Contributions are very welcome. Please check the [contribution guide](./CONTRIBU
 ## Overall Design
 
 ```mermaid
-graph TD
+graph LR
 
   subgraph IMG[EduImages]
     IMG1
@@ -26,7 +26,8 @@ graph TD
   end
 
   subgraph EBEP[EduBricks-EduPaths]
-    subgraph EduBricks    
+    
+subgraph EduBricks
       EB1[EduBrick 1]
       EB2[EduBrick 2]
       EB3[EduBrick 3]
@@ -40,7 +41,8 @@ graph TD
   end
 
   subgraph EduSlides
-    SD[Slide Deck]
+    SD1[Slide Deck 1]
+    SD2[Slide Deck 2]
   end
 
   IMG1 --html-src--> EB1
@@ -52,8 +54,18 @@ graph TD
   EB1 --src--> EP1
   EB2 --src--> EP1
   EB3 --src--> EP2
-  EP1 --src--> SD
-  EP2 --src--> SD
+  EP1 --src--> SD1
+  EP2 --src--> SD1
+  EB3 --src--> SD2  
+  EP1 --src--> SD2
+
+classDef brickStyle fill:#B4CE82,rx:.4em,ry:.4em;
+classDef pathStyle fill:#4FB3D9,rx:.4em,ry:.4em;
+classDef slideStyle fill:#FFC000,rx:.4em,ry:.4em;
+
+class EduBricks brickStyle;
+class EduPaths pathStyle;
+class EduSlides slideStyle;
 
 ```
 
