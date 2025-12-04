@@ -25,7 +25,7 @@ graph LR
     IMG3
   end
 
-  subgraph EB[EduBricks Repository]
+  subgraph EB[EduBricks-EduPaths Repository]
     EB1[EduBrick 1]
     EB2[EduBrick 2]
     EB3[EduBrick 3]
@@ -38,7 +38,7 @@ graph LR
   end
 
 
-  subgraph this[This Repository: slide-decks]
+  subgraph this[This Repository: EduSlides]
     SD[Slide Deck]
   end
 

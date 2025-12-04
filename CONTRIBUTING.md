@@ -10,7 +10,7 @@ git submodule update --init --recursive
 
 ### Design in this repository
 
-- [.bricks](bricks) = git submodule of https://github.com/EduBricksHub/EduBricks
+- [.bricks](bricks) = git submodule of https://github.com/EduBricksHub/EduBricks-EduPaths
 - [./slide-decks](slide-decks) = location to compile slide decks, typically: 
 
 ```yaml
