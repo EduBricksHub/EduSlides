@@ -8,50 +8,7 @@ To include EduBricks as git submodule, use the following command to add it to yo
 git submodule update --init --recursive
 ```
 
-## Design
-
-### Overall Design
-
-```mermaid
-graph LR
-
-  subgraph IMG[Images Repository]
-    IMG1
-    IMG2
-    IMG3
-  end
-
-  subgraph EB[EduBricks Repository]
-    EB1[EduBrick 1]
-    EB2[EduBrick 2]
-    EB3[EduBrick 3]
-    
-    subgraph EduPaths
-      EP1[EduPath A]
-      EP2[EduPath B]
-    end
-
-  end
-
-
-  subgraph this[This Repository: slide-decks]
-    SD[Slide Deck]
-  end
-
-  IMG1 --html-src--> EB1
-  IMG2 --html-src--> EB2
-  IMG3 --html-src--> EB3
-  EB --Git-Submodule--> this
-
-  EB1 --src--> EP1
-  EB2 --src--> EP1
-  EB3 --src--> EP2
-  EP1 --src--> SD
-  EP2 --src--> SD
-
-```
-
-### This repository
+### Design in this repository
 
 - [.bricks](bricks) = git submodule of https://github.com/EduBricksHub/EduBricks
 - [./slide-decks](slide-decks) = location to compile slide decks, typically: 
