@@ -1,68 +1,22 @@
 # Slide Decks
 
-Minimal repo to showcase EduBricks-based slide decks for FAIR asset reuse.
+*EduBricks*-based slide decks for FAIR asset reuse. :stars:
 
-Please visit https://edubrickshub.github.io/slide-decks/ to see the examples.
+Please visit https://edubrickshub.github.io/slide-decks/ to find the example slide decks.
 
 ## Idea
 
 - This repository handles slides and styles (no assets, no images) and renders the slide decks via [Slidev](https://sli.dev/)
 - Images can be handled and sourced from anywhere else (i.e. URLs) to keep this repo lightweight
-- EduBricks/EduPaths are sourced as git submodule from https://github.com/EduBricksHub/EduBricks
+- EduBricks & EduPaths are sourced as git submodule from https://github.com/EduBricksHub/EduBricks
 
+## Contribution
 
-## Build as GitHub Pages
+Contributions are very welcome. Please check the [contribution guide](./CONTRIBUTING.md) for setups, technical details and design ideas.
 
-To deploy the slide decks publicly on 
+## License
 
-1. Add a build script for that deck to the [package.json](package.json), e.g.
-  ```json
-  {
-  ...
-  "build:deckX": "slidev build --out ../../dist/deckX path/to/slides.md",
-  ...
-  }
-  ```
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
-2. Add to the respective build step to the [deploy.yml](.github/workflows/deploy.yml), e.g.
-
-  ```yml
-  - name: Build DeckX
-    run: npm run build:deckX -- --base /${{github.event.repository.name}}/deckX
-  ```
-
-3. (Optional:) Link the slide deck in the "front page" [index.html](dist/index.html)
-
-
-## Working with Slidev locally
-
-[Slidev](https://sli.dev/) is a vue.js based framework to build slides from markdown files.
-
-- This can also be used to compile slide decks from individual slides ("EduBricks") or smaller pre-defined slide decks ("EduPaths") 
-- There's a [vscode extension](https://sli.dev/features/vscode-extension) available
-- during watch or build it checks, that all referenced / reused images or imported bricks actually exist
-
-### Install Slidev
-
-```bash
-npm install
-```
-
-### Watch a Slidev slide deck
-
-You can see an example slide deck built with Slidev here using the following command. 
-This should open a browser with the presentation, including some presentation controls in the bottom-left corner.
-
-> Note: this will only work, if above `git submodule` are correctly added and pulled locally.
-
-```bash
-npm run dev -- slide-decks/2025-11-19_intro-rdm/slides.md
-```
-
-### Export a Slidev slide deck to pdf
-
-You can directly export a slide deck to pdf using Slidev's browser controls or use the export command, e.g.
-
-```bash
-npm run export -- slide-decks/2025-11-19_intro-rdm/slides.md --output slide-decks/2025-11-19_intro-rdm/slides.pdf
-```
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
