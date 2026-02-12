@@ -1,5 +1,5 @@
 ---
-# theme: ../../themes/dataplant-ceplas
+# theme: ../../themes/slidev-theme-dataplant-ceplas
 theme: ../../themes/slidev-theme-nfdi4plants
 # themeConfig:
 #   paginationX: r

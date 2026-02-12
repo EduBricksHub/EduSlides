@@ -1,6 +1,6 @@
 ---
 date: 2025-12-12
-theme: ../../themes/hhu-ceplas
+theme: ../../themes/slidev-theme-hhu-ceplas
 description: Introduction to computational workflows; towards FAIRifying scripts.
 themeConfig:
   paginationX: l

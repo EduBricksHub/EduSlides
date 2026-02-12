@@ -1,6 +1,6 @@
 ---
-# theme: ../../themes/dataplant-ceplas
-theme: ../../themes/hhu-ceplas
+# theme: ../../themes/slidev-theme-dataplant-ceplas
+theme: ../../themes/slidev-theme-hhu-ceplas
 # theme: ../../themes/slidev-theme-nfdi4plants
 themeConfig:
   paginationX: l
