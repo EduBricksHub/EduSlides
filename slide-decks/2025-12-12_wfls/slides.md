@@ -141,5 +141,5 @@ src: ../../EduBricks-EduPaths/EduBricks/workflows/workflows-5S-method-06-summary
 ---
 
 ---
-src: ./custom/02-acknowledgements.md
+src: ./custom/acknowledgements.md
 ---
