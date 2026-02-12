@@ -81,7 +81,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-metadata-table-representation.svg" />
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Referencing a protocol
@@ -107,7 +107,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-study-parameterization.svg" />
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Finding the right metadata vocabulary
@@ -148,7 +148,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-metadata.svg" />
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Finding the metadata vocabulary and descriptors
@@ -179,7 +179,7 @@ layout: two-columns
 
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Finding the metadata vocabulary and descriptors
