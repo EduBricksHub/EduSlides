@@ -19,7 +19,7 @@ This repo basically brings together slides and slide-decks (which themselves sou
 ├── README.md
 ├── scripts                # <- scripts to take care of build logic and pulling metadata from slides.md YAML frontmatter
 ├── slide-decks
-└── themes                 # <- themes for styling a slide deck
+└── themes                 # <- themes including layouts for styling a slide deck
 ```
 
 ### Adding a new slide deck
@@ -38,21 +38,53 @@ slide-decks/<NameOfSlideDeck>
 Note: Only slide decks **following exactly** this path and file name (`slides.md`) convention are automatically picked up.
 
 
-#### slides.md
+#### Adding slides
 
-To compile slides from other slides, use this logic
+There's two main ways to add slides
 
-```md
----
-src: path/to/slide
----
-```
+1. Adding it directly inside `slides.md`: 
 
-E.g.
+  ```markdown
+  ---
+  
+  # Header slide 1
 
----
-src: ../../EduBricks-EduPaths/EduBricks/my-brick.md
----
+  Content slide 1
+
+  ---
+
+  # Header slide 2
+  
+  Content slide 2  
+  
+  ---
+
+  ```
+
+
+2. Compile slides from other slides, use this src logic:
+
+  ```md
+  ---
+  src: path/to/slide
+  ---
+  ```
+  
+  E.g.
+  
+  ```md
+  ---
+  src: ../../EduBricks-EduPaths/EduBricks/my-brick.md
+  ---
+  ```
+
+  You can also selectively add slides with the `#` logic at the end
+
+  ```md
+  ---
+  src: ../../EduBricks-EduPaths/EduBricks/my-brick.md#1,2
+  ---
+  ```
 
 
 ## Breaking Links
@@ -74,6 +106,16 @@ Once added to the `main` branch, slide decks are deployed publicly on https://ed
 
 ## Setup
 
+### Install node.js
+
+This depends on [node.js](https://nodejs.org/en/download).
+
+### Clone this repository
+
+```bash
+git clone https://github.com/EduBricksHub/EduSlides.git
+```
+
 ### Git Submodule
 
 To include EduBricks as git submodule, use the following command to add it to your local clone:
@@ -90,7 +132,7 @@ npm install
 
 ### Watch a local preview of the slide deck gallery
 
-To watch the gallery with all slide decks, run `npm run start` and open `http://localhost:5173/`
+To watch the gallery with all slide decks, run `npm run start` and open `http://localhost:5173/`.
 
 
 ### Watch a single Slidev slide deck
