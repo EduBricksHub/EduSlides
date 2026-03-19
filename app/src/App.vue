@@ -42,6 +42,8 @@ import decks from './decks'
           <a href="https://github.com/EduBricksHub/EduBricks-EduPaths">https://github.com/EduBricksHub/EduBricks-EduPaths</a>
         </li>
       </ul>
+    <h2>Citation</h2>
+      <p>Brilhaus, D., Haugwitz, J.-M., Helbig, K., Uebachs, M., Schmale Rodrigues, C., & Mühlhaus, T. (2025). EduBricks – Ein Konzept für modulares und skalierbares Lehrmaterial. Zenodo. https://doi.org/10.5281/zenodo.17850103</p>
     </div>
 
   </main>

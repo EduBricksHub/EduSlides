@@ -5,6 +5,16 @@ const dev = import.meta.env.DEV
 
 export default [
   {
+    id: "2026-03-24_fdm-werkstatt",
+    title: "Turning Research Projects into FAIR Digital Objects",
+    description: "a Hands-On Introduction to Annotated Research Contexts (ARCs) and ELN integration",
+    author: "|",
+    date: "2026-03-24",
+    url: dev
+      ? "http://localhost:3035"
+      : "/2026-03-24_fdm-werkstatt/"
+  },
+  {
     id: "2026-02-11_arcify",
     title: "ARCify your research project",
     description: "Introducing ARC with a hands-on demo.",
