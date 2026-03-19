@@ -5,7 +5,7 @@ import decks from './decks'
 <template>
   <main class="container">
     <header class="header">
-      <h1>Slide Deck Gallery</h1>
+      <h1>EduSlides – Deck Gallery</h1>
       <p class="subtitle">Browse and open available slide decks</p>
     </header>
 
@@ -43,7 +43,11 @@ import decks from './decks'
         </li>
       </ul>
     <h2>Citation</h2>
-      <p>Brilhaus, D., Haugwitz, J.-M., Helbig, K., Uebachs, M., Schmale Rodrigues, C., & Mühlhaus, T. (2025). EduBricks – Ein Konzept für modulares und skalierbares Lehrmaterial. Zenodo. https://doi.org/10.5281/zenodo.17850103</p>
+      <p>Brilhaus, D., Haugwitz, J.-M., Helbig, K., Uebachs, M., Schmale Rodrigues, C., & Mühlhaus, T. (2025). EduBricks – Ein Konzept für modulares und skalierbares Lehrmaterial. Zenodo. <a href="https://doi.org/10.5281/zenodo.17850103">https://doi.org/10.5281/zenodo.17850103</a></p>
+    <h2>Contributing</h2>
+        <p>
+          If you would like to contribute slide decks or contribute to the development of the <a href="https://github.com/EduBricksHub">EduBricksHub</a>, please refer to the <a href="https://github.com/EduBricksHub/EduSlides/blob/main/CONTRIBUTING.md">contributing guide</a>.
+        </p>
     </div>
 
   </main>
