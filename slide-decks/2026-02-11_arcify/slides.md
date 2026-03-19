@@ -1,7 +1,9 @@
 ---
-theme: ../../themes/dataplant-ceplas
+# theme: ../../themes/slidev-theme-dataplant-ceplas
+theme: ../../themes/slidev-theme-hhu-ceplas
+# theme: ../../themes/slidev-theme-nfdi4plants
 themeConfig:
-  paginationX: r
+  paginationX: l
   paginationY: b
   paginationPagesDisabled: [ 1 ]
   logoPagesDisabled: [ 1 ]
@@ -11,7 +13,7 @@ author: Dominik Brilhaus
 description: Introducing ARC with a hands-on demo.
 fonts:
   sans: Gulim
-canvasWidth: 1200
+# canvasWidth: 1200
 transition: slide-left
 favicon: https://raw.githubusercontent.com/nfdi4plants/Branding/refs/heads/master/icons/DataPLANT/favicons/favicon_bg_darkblue.png
 drawings:

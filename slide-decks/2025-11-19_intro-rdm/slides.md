@@ -1,5 +1,5 @@
 ---
-theme: ../../themes/dataplant-ceplas
+theme: ../../themes/slidev-theme-dataplant-ceplas
 themeConfig:
   paginationX: r
   paginationY: b

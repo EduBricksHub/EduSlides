@@ -1,6 +1,6 @@
 ---
 date: 2025-12-12
-theme: ../../themes/hhu-ceplas
+theme: ../../themes/slidev-theme-hhu-ceplas
 description: Introduction to computational workflows; towards FAIRifying scripts.
 themeConfig:
   paginationX: l
@@ -141,5 +141,5 @@ src: ../../EduBricks-EduPaths/EduBricks/workflows/workflows-5S-method-06-summary
 ---
 
 ---
-src: ./custom/02-acknowledgements.md
+src: ./custom/acknowledgements.md
 ---

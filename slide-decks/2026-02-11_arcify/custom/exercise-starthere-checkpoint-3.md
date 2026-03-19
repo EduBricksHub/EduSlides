@@ -12,36 +12,46 @@ Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.know
 </AdmonitionType>
 
 ---
-layout: three-columns
+layout: default
 ---
 
 ## Save time using standard methods and SOPs
 
-::left::
 
-**Parameter []**
+<div class="grid grid-cols-3 gap-8 mt-2">
+  <div class="left">
 
-- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Protein Precipitation
-  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> acetone
-- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cleavage agent name 
-  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> Trypsin
-- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> sample preparation
-  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> reversed-phase solid-phase extraction
-- ...
+  **Parameter []**
+  
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Protein Precipitation
+    - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> acetone
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cleavage agent name 
+    - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> Trypsin
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> sample preparation
+    - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> reversed-phase solid-phase extraction
+  - ...
 
-::middle::
+  </div>
 
-**Component []**
+  <div class="middle">
 
-- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> chromatography instrument model 
-  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> nanoElute2
-- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> chromatography column model 
-  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> PepSep C18 1.9u, 25cm x 75um
-...
+  **Component []**
 
-::right::
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> chromatography instrument model 
+    - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> nanoElute2
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> chromatography column model 
+    - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> PepSep C18 1.9u, 25cm x 75um
+  ...
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-assay-sop-proteomics.svg" width="300px"/>
+  </div>
+
+  <div class="right">
+  
+    <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-assay-sop-proteomics.svg" width="300px"/>
+
+  </div>
+</div>
+
 
 ---
 layout: default

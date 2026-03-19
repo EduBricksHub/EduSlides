@@ -44,7 +44,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-assay-modular1.svg"/>
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Parameterization: sugar extraction
@@ -61,7 +61,7 @@ layout: two-columns
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/1eaacfdc463867832a2f847a3da571f5cf2d2b11/figures/arc-prototypic/arc-prototypic-assay-labprocess1-extraction.svg" />
 
 ---
-layout: two-columns
+layout: two-cols-header
 ---
 
 ## Parameterization: sugar measurement

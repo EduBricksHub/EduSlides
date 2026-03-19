@@ -4,7 +4,7 @@ title: CWL Demo
 description: Small hands-on demo to introduce wrapping a tool as CWL
 author: Dominik Brilhaus
 favicon: https://github.com/EduBricksHub/EduImages/blob/71326f568eebe51c90896ef418ca8632fa2bae36/logos/ceplas/CEPLAS_Icon.jpeg
-theme: ../../themes/hhu-ceplas
+theme: ../../themes/slidev-theme-hhu-ceplas
 themeConfig:
   paginationX: l
   paginationY: b
