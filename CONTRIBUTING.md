@@ -153,3 +153,34 @@ You can directly export a slide deck to pdf using Slidev's browser controls or u
 ```bash
 npm run export -- slide-decks/2025-11-19_intro-rdm/slides.md --output slide-decks/2025-11-19_intro-rdm/slides.pdf
 ```
+
+## Themes
+
+Custom slide themes can be added to [themes](./themes).
+
+For easier switching between themes, it would be best to use the same default layout names across all themes and avoid using custom layouts. 
+If a slide needs custom layouts, apply it (via tailwind) directly to the slide. 
+
+### Default layouts 
+
+- 404              
+- center           
+- cover            
+- default          
+- end              
+- error            
+- fact             
+- full             
+- iframe-left      
+- iframe-right     
+- iframe           
+- image-left       
+- image-right      
+- image            
+- intro            
+- none             
+- quote            
+- section          
+- statement        
+- two-cols-header  
+- two-cols
