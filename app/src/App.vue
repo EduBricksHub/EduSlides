@@ -5,7 +5,7 @@ import decks from './decks'
 <template>
   <main class="container">
     <header class="header">
-      <h1>EduSlides – Deck Gallery</h1>
+      <h1>EduSlides – Gallery</h1>
       <p class="subtitle">Browse and open available slide decks</p>
     </header>
 
@@ -29,6 +29,8 @@ import decks from './decks'
         </div>
       </a>
     </div>
+
+    <hr/>
 
     <div class="footer">
     <h2>Source Repositories</h2>
