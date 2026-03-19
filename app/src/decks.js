@@ -8,7 +8,7 @@ export default [
     id: "2026-03-24_fdm-werkstatt",
     title: "Turning Research Projects into FAIR Digital Objects",
     description: "a Hands-On Introduction to Annotated Research Contexts (ARCs) and ELN integration",
-    author: "|",
+    author: "Yaser Alashloo, Sabrina Zander, Xiaoran Zhou",
     date: "2026-03-24",
     url: dev
       ? "http://localhost:3035"
