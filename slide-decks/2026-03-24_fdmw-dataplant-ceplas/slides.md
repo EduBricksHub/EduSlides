@@ -35,6 +35,50 @@ layout: cover
 </div>
 
 ---
+layout: two-cols-header
+---
+
+# Cluster of Excellence on Plant Sciences (CEPLAS)
+
+## SMART Plants in Dynamic Environments
+
+::left::
+
+<img src="./custom-images/ceplas-research-areas.png" />
+
+::right::
+
+- 5 **Research Areas**
+- 5 **Institutions**
+  - Heinrich Heine University Düsseldorf
+  - University of Cologne
+  - Max Planck Institute for Plant Breeding Research Cologne
+  - Forschungszentrum Jülich
+  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK Gatersleben)
+- **Technology platforms**
+  - metabolomics
+  - imaging
+  - data science and management
+- ~50 groups
+
+
+<div class="absolute top-10 right-5">
+  <img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" alt="CEPLAS Logo" width="280"/>
+</div>
+
+---
+
+
+# DataPLANT – *NFDI4plants*
+
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/dataplant/dataplant-landing-page.png" style='display: block; width:70%; margin: auto'/>
+
+<span class="flex flex-row justify-center">
+  
+  https://nfdi4plants.org
+
+</span>
+
 
 # Driving the ’Digital Change’ in science
 
@@ -68,6 +112,13 @@ Enabling the community to participate in the RDM ecosystem
 </span>
 
 ---
+
+# "You have a match"
+
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+
+---
+
 
 # Accelerating results with actionable data
 
@@ -160,12 +211,47 @@ Together on a stepwise path to FAIR data and democratized research
 
 ---
 
+# ARC Publication (and Revision)
+
+<img src="./custom-images/todo/figure2-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
+
+---
+
+# ARChive: DataPLANT's ARC publication platform
+
+
+
+
+---
+
+
 
 # Collaborative Workflows
 
 ## Domain specific conventions are easy to implement
 
 <img src="./custom-images/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="80%"/>
+
+
+---
+
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/dataplant/datahub-plantdatahub.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
+---
+
+
+## On-premise data hubs
+  
+  
+- HHU-DataHUB
+- ARC and Hub as middle-ware (to OMERO, elabFTW, Coscine?)
+- KeyCloak to central instance
+- Infrastructure Provider Circle
 
 
 ---
@@ -178,11 +264,21 @@ Together on a stepwise path to FAIR data and democratized research
 
 ---
 
+# Two sides of the same coin
+
+
+<img src="./custom-images/todo/figure1-2_sides_of_the_same_coin.svg" class="flex items-center justify-center" width="100%"/>
+
+Tool development and tool assistance
+
+---
+
 # Tool support
 
-## (Meta)data transparency with tool assistance but no technical lock-in
 
-<img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="80%"/>
+<img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="70%"/>
+
+(Meta)data transparency with tool assistance but no technical lock-in
 
 ---
 
@@ -286,53 +382,10 @@ src: '../../EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
 
 
 
-
----
-
-
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 ---
 
-
----
-layout: two-cols-header
----
-
-# Cluster of Excellence on Plant Sciences (CEPLAS)
-
-## SMART Plants in Dynamic Environments
-
-::left::
-
-<img src="./custom-images/ceplas-research-areas.png" />
-
-::right::
-
-- 5 **Research Areas**
-- 5 **Institutions**
-  - Heinrich Heine University Düsseldorf
-  - University of Cologne
-  - Max Planck Institute for Plant Breeding Research Cologne
-  - Forschungszentrum Jülich
-  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK Gatersleben)
-- **Technology platforms**
-  - metabolomics
-  - imaging
-  - data science and management
-- ~50 groups
-
-
-<div class="absolute top-10 right-5">
-  <img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" alt="CEPLAS Logo" width="280"/>
-</div>
-
-
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/ceplas/ceplas-dataplant.md'
----
 
 ---
 
@@ -377,12 +430,23 @@ ARC-specific training is offered independently or integrated into international 
 </vClick>
 
 ---
+layout: two-cols-header
+---
 
-## CEPLAS Data Policy (and incentives)
+# Research Data Policy (and incentives)
 
+::left::
 
-- publication funds as incentive
-- "No ARC – no Money :D"
+<img src="./custom-images/ceplas-research-data-policy.png" width="60%"/>
+
+> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
+
+::right::
+
+Incentivizing FAIR data management – No ARC - no Money 
+
+> "**Regulations for financing publications**""
+> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
   
 ---
 
@@ -401,28 +465,16 @@ ARC-specific training is offered independently or integrated into international 
   - published, DOI-ed ARCs
   - Link: ARChive
 
----
 
----
-src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
----
-
-## On-premise data hubs
-  
-  
-- HHU-DataHUB
-- ARC and Hub as middle-ware (to OMERO, elabFTW, Coscine?)
-- KeyCloak to central instance
-- Infrastructure Provider Circle
 
 ---
 
-## Growing communities
+# Data Stewardship for a growing community
 
-- Other consortia in proximity
-  - MibiNet
-  - TRR341
-  - policy
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+
+
+
 
 ---
 
@@ -436,9 +488,7 @@ src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
 src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
 ---
 
----
-src: '../../EduBricks-EduPaths/EduBricks/dataplant/datahub-plantdatahub.md'
----
+
 
 
 ---
