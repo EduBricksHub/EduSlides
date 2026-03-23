@@ -143,11 +143,6 @@ Many researchers use DataPLANT services as members, including the majority of co
 
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
 
----
-
-# "You have a match" ;)
-
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
 
 <!-- 
 
@@ -212,13 +207,6 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 
 ---
 
-# Learning from open-source software development
-
-<img src="./custom-images/arc-fdo-opensource.svg" class="flex items-center justify-center h-full" width="70%"/>
-
-
----
-
 # Git is a highly flexible collaboration tool
 
 <img src="./custom-images/arc-git.svg" class="flex items-center justify-center" width="70%"/>
@@ -239,6 +227,14 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 </Admonition>
 
 </vClick>
+
+
+---
+
+# Learning from open-source software development
+
+<img src="./custom-images/arc-fdo-opensource.svg" class="flex items-center justify-center h-full" width="70%"/>
+
 
 
 ---
@@ -303,6 +299,14 @@ https://archive.nfdi4plants.org
 
 ---
 
+# Automatization: “Build and validate”
+
+<img src="./custom-images/datahub-ci.svg" class="flex items-center justify-center" width="70%"/>
+
+Continuous integration for seamless interoperation
+
+---
+
 # Validation and quality control
 
 <img src="./custom-images/datahub-cqc-01.png" class="flex items-center justify-center" width="90%"/>
@@ -361,13 +365,6 @@ src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
 
 ---
 
-# Automatization: “Build and validate”
-
-<img src="./custom-images/datahub-ci.svg" class="flex items-center justify-center" width="70%"/>
-
-Continuous integration for seamless interoperation
-
----
 
 # Two sides of the same coin
 
