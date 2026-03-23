@@ -12,7 +12,7 @@ author: Dominik Brilhaus
 description: CEPLAS as a show-case
 fonts:
   sans: Gulim
-canvasWidth: 1280
+canvasWidth: 1000
 transition: fade
 favicon: https://raw.githubusercontent.com/nfdi4plants/Branding/refs/heads/master/icons/DataPLANT/favicons/favicon_bg_darkblue.png
 drawings:
@@ -27,10 +27,9 @@ layout: cover
 
 <div style="margin-top: 4em;">
 
-**Dominik Brilhaus**
-  
-  - Cluster of Excellence on Plant Sciences (CEPLAS)
-  - Heinrich Heine University Düsseldorf
+**Dominik Brilhaus** – CEPLAS, HHU Düsseldorf
+
+FDM-Werkstatt 2026
 
 </div>
 
@@ -79,27 +78,31 @@ layout: two-cols-header
 
 </span>
 
+---
 
 # Driving the ’Digital Change’ in science
 
-<img src="./custom-images/data-to-knowledge01.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="./custom-images/data-to-knowledge01.svg" class="flex items-center justify-center h-full" width="100%"/>
 
 <span class="flex justify-center">
 Becoming FAIR will drive science and democratization of research data
 </span>
 
+<!-- 
 
----
+  ---
+  
+  # Making data a primary product in science
+  
+  <img src="./custom-images/data-to-knowledge02.svg" class="flex items-center justify-center h-full" width="80%"/>
+  
+  ## Data itself has value for science
+  
+  - It can be reused to gain further knowledge
+  - New techniques or theories may require it to be re-examined
+  - Modern scalable data linkage possible 
 
-# Making data a primary product in science
-
-<img src="./custom-images/data-to-knowledge02.svg" class="flex items-center justify-center h-full" width="80%"/>
-
-## Data itself has value for science
-
-- It can be reused to gain further knowledge
-- New techniques or theories may require it to be re-examined
-- Modern scalable data linkage possible
+-->
 
 ---
 
@@ -113,41 +116,55 @@ Enabling the community to participate in the RDM ecosystem
 
 ---
 
-# "You have a match"
+# "You have a match" ;)
 
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
 
----
+<!-- 
+
+  ---
+  
+  
+  # Accelerating results with actionable data
+  
+  <img src="./custom-images/accelerating-results.svg" class="flex items-center justify-center h-full" width="60%"/>
+  
+  ---
+  
+  ## The Challenge of FAIR and content standards
+  
+  <img src="./custom-images/fair-challenge-standards.svg" class="flex items-center justify-center h-full" width="70%"/>
+  
+  Diverse methods in plant science require researchers to navigate over 600 technology- and method-specific content standards
 
 
-# Accelerating results with actionable data
-
-<img src="./custom-images/accelerating-results.svg" class="flex items-center justify-center h-full" width="60%"/>
-
----
-
-## The Challenge of FAIR and content standards
-
-<img src="./custom-images/fair-challenge-standards.svg" class="flex items-center justify-center h-full" width="70%"/>
-
-Diverse methods in plant science require researchers to navigate over 600 technology- and method-specific content standards
+-->
 
 ---
 
 ## FAIR and easy: One entry and endless possibilities
 
-### Empowering plant researchers by simplifying complexity
+<!-- ### Empowering plant researchers by simplifying complexity -->
 
-<img src="./custom-images/fair-challenge-arc.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="./custom-images/arc-single-entry-point.svg" class="flex items-center justify-center h-full" width="70%"/>
 
 ARC enables researchers to participate in a thriving RDM ecosystem without barriers
 
 ---
 
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
+---
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/002-annotated-research-context.md'
 ---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/003-the-arc-scaffold-structure.md'
+---
+
+
 
 ---
 
@@ -172,7 +189,7 @@ Together on a stepwise path to FAIR data and democratized research
 
 - Git is an open-source Version Control System
 - Fast & reliable as command line, native and web-based apps
-- Enables collaborative work on files and directories
+<!-- - Enables collaborative work on files and directories -->
 
 <vClick>
 
@@ -195,19 +212,24 @@ Together on a stepwise path to FAIR data and democratized research
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-01.svg" class="flex items-center justify-center" width="70%"/>
+<img src="./custom-images/datahub-cqc-01.png" class="flex items-center justify-center" width="90%"/>
 
 ---
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-02.svg" class="flex items-center justify-center" width="70%"/>
+<img src="./custom-images/datahub-cqc-02.png" class="flex items-center justify-center" width="90%"/>
 
 ---
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-03.svg" class="flex items-center justify-center" width="70%"/>
+<img src="./custom-images/datahub-cqc-03.png" class="flex items-center justify-center" width="90%"/>
+---
+
+# Validation and quality control
+
+<img src="./custom-images/datahub-cqc-04.png" class="flex items-center justify-center" width="90%"/>
 
 ---
 
@@ -219,7 +241,7 @@ Together on a stepwise path to FAIR data and democratized research
 
 # ARChive: DataPLANT's ARC publication platform
 
-
+<img src="./custom-images/archive-demo.gif" class="flex items-center justify-center" width="90%"/>
 
 
 ---
@@ -275,10 +297,16 @@ Tool development and tool assistance
 
 # Tool support
 
-
 <img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="70%"/>
 
 (Meta)data transparency with tool assistance but no technical lock-in
+
+---
+
+# ARCitect
+
+<img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="100%"/>
+
 
 ---
 
@@ -303,19 +331,6 @@ Community-driven tool development for all-in-one ARC management
 </vClick>
 
 
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/003-the-arc-scaffold-structure.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/004-isa-abstract-model-in-a-nutshell.md'
----
-
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-similarity.md'
 ---
@@ -337,28 +352,11 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/018-templates-sops.md'
 ---
 
 ---
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/011-data-analysis-cwl-workflows-and-runs.md'
----
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/012-metadata-annotation-from-data-to-result.md'
----
+## RDM to support Core Facilities
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/013-everything-is-a-file.md'
----
+<img src="./custom-images/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="100%"/>
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/014-no-technical-lock-in.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/015-two-representations-of-the-arc.md'
----
-
----
-src: '../../EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
----
 
 ---
 
@@ -387,13 +385,6 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 ---
 
 
----
-
-## RDM to support Core Facilities
-
-<img src="./custom-images/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="70%"/>
-
----
 
 
 
@@ -452,8 +443,9 @@ Incentivizing FAIR data management – No ARC - no Money
 
 ## DMP support
 
-- Link to Dataplan
+<img src="./custom-images/dataplan.svg" width="80%"/>
 
+https://dmpg.nfdi4plants.org
 
 ---
 
@@ -472,7 +464,6 @@ Incentivizing FAIR data management – No ARC - no Money
 # Data Stewardship for a growing community
 
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
-
 
 
 
@@ -496,3 +487,35 @@ src: './custom/acknowledgements.md'
 ---
 
 
+
+
+
+<!-- 
+  
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/011-data-analysis-cwl-workflows-and-runs.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/012-metadata-annotation-from-data-to-result.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/013-everything-is-a-file.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/014-no-technical-lock-in.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/015-two-representations-of-the-arc.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
+  ---
+  
+
+-->
