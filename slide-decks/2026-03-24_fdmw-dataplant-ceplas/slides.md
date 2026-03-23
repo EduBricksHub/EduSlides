@@ -141,18 +141,6 @@ Enabling the community to participate in the RDM ecosystem
 -->
 
 ---
-
-## FAIR and easy: One entry and endless possibilities
-
-<!-- ### Empowering plant researchers by simplifying complexity -->
-
-<img src="./custom-images/arc-single-entry-point.svg" class="flex items-center justify-center h-full" width="70%"/>
-
-ARC enables researchers to participate in a thriving RDM ecosystem without barriers
-
----
-
----
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
 ---
 
@@ -162,6 +150,34 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/002-annotated-research-contex
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/003-the-arc-scaffold-structure.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-similarity.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/006-metadata-annotation-from-sample-to-data.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/007-modular-separation-of-experimental-processes.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/008-modular-separation-of-experimental-processes.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/018-templates-sops.md'
+---
+
+---
+
+## RDM to support Core Facilities
+
+<img src="./custom-images/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="100%"/>
+
 ---
 
 
@@ -202,11 +218,58 @@ Together on a stepwise path to FAIR data and democratized research
 
 </Admonition>
 
+</vClick>
+
+---
+
+# Collaborative Workflows
+
+## Domain specific conventions are easy to implement
+
+<img src="./custom-images/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="80%"/>
+
+<!-- TODO: replace CQC images-->
+
+---
+
+## FAIR and easy: One entry and endless possibilities
+
+<!-- ### Empowering plant researchers by simplifying complexity -->
+
+<img src="./custom-images/arc-single-entry-point.svg" class="flex items-center justify-center h-full" width="70%"/>
+
+ARC enables researchers to participate in a thriving RDM ecosystem without barriers
+
+<vClick>
+
+<Admonition title= "FDM-Werkstatt 2026" type="tip" style="position: absolute; top: 40%; width: 90%">
+
+**An Introduction to the Galaxy platform for FAIR data analysis**
+
+- Session 3 | Tuesday | 02:00 – 05:00 PM
+- Saskia Hiltemann – Galaxy, DataPLANT
+
+</Admonition>
 
 </vClick>
 
+---
 
-<!-- TODO: replace CQC images-->
+# ARChive: DataPLANT's ARC publication platform
+
+<img src="./custom-images/archive-demo.gif" width="65%"/>
+
+<span class="flex justify-center">
+
+https://archive.nfdi4plants.org
+
+</span>
+
+---
+
+# ARC revision and publication
+
+<img src="./custom-images/todo/figure2-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
 
 ---
 
@@ -232,30 +295,21 @@ Together on a stepwise path to FAIR data and democratized research
 <img src="./custom-images/datahub-cqc-04.png" class="flex items-center justify-center" width="90%"/>
 
 ---
-
-# ARC Publication (and Revision)
-
-<img src="./custom-images/todo/figure2-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
-
+layout: two-cols
 ---
 
-# ARChive: DataPLANT's ARC publication platform
+# Research Data Policy
 
-<img src="./custom-images/archive-demo.gif" class="flex items-center justify-center" width="90%"/>
+<img src="./custom-images/ceplas-research-data-policy.png" width="100%"/>
 
+::right::
 
----
+> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
 
+Incentivizing FAIR data management – No ARC - no Money 
 
-
-# Collaborative Workflows
-
-## Domain specific conventions are easy to implement
-
-<img src="./custom-images/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="80%"/>
-
-
----
+> "**Regulations for financing publications**""
+> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
 
 
 ---
@@ -266,28 +320,24 @@ src: '../../EduBricks-EduPaths/EduBricks/dataplant/datahub-plantdatahub.md'
 src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
 ---
 
-
 ## On-premise data hubs
-  
   
 - HHU-DataHUB
 - ARC and Hub as middle-ware (to OMERO, elabFTW, Coscine?)
 - KeyCloak to central instance
 - Infrastructure Provider Circle
 
-
 ---
 
 # Automatization: “Build and validate”
 
-## Continuous integration for seamless interoperation
-
 <img src="./custom-images/datahub-ci.svg" class="flex items-center justify-center" width="70%"/>
+
+Continuous integration for seamless interoperation
 
 ---
 
 # Two sides of the same coin
-
 
 <img src="./custom-images/todo/figure1-2_sides_of_the_same_coin.svg" class="flex items-center justify-center" width="100%"/>
 
@@ -306,7 +356,6 @@ Tool development and tool assistance
 # ARCitect
 
 <img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="100%"/>
-
 
 ---
 
@@ -332,64 +381,11 @@ Community-driven tool development for all-in-one ARC management
 
 
 ---
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-similarity.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/006-metadata-annotation-from-sample-to-data.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/007-modular-separation-of-experimental-processes.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/008-modular-separation-of-experimental-processes.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/018-templates-sops.md'
----
-
----
-
-## RDM to support Core Facilities
-
-<img src="./custom-images/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="100%"/>
-
-
----
-
-## Link to Galaxy
-
-<vClick>
-
-<Admonition title= "FDM-Werkstatt 2026" type="tip" style="position: absolute; top: 40%; width: 90%">
-
-**An Introduction to the Galaxy platform for FAIR data analysis**
-
-- Session 3 | Tuesday | 02:00 – 05:00 PM
-- Saskia Hiltemann – Galaxy, DataPLANT
-
-</Admonition>
-
-</vClick>
-
-
----
-
-
-
----
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 ---
 
 
-
-
-
 ## Data Stewardship (within CEPLAS)
-
 
 - Link: Knowledge Base
 - Link: Events
@@ -405,7 +401,6 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 
 ARC-specific training is offered independently or integrated into international training resources
 
-
 <vClick>
 
 <Admonition title= "FDM-Werkstatt 2026" type="tip" style="position: absolute; top: 40%; width: 90%">
@@ -420,27 +415,6 @@ ARC-specific training is offered independently or integrated into international 
 
 </vClick>
 
----
-layout: two-cols-header
----
-
-# Research Data Policy (and incentives)
-
-::left::
-
-<img src="./custom-images/ceplas-research-data-policy.png" width="60%"/>
-
-> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
-
-::right::
-
-Incentivizing FAIR data management – No ARC - no Money 
-
-> "**Regulations for financing publications**""
-> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
-  
----
-
 ## DMP support
 
 <img src="./custom-images/dataplan.svg" width="80%"/>
@@ -449,73 +423,14 @@ https://dmpg.nfdi4plants.org
 
 ---
 
-## ARC revision and publications
-
-- numbers?
-  - ARCs
-  - users
-  - published, DOI-ed ARCs
-  - Link: ARChive
-
-
-
----
-
 # Data Stewardship for a growing community
 
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
-
-
-
----
-
-- Connection to Elixir
-- Connection to FAIRagro, IPK?
-
----
-
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
 ---
 
-
-
-
 ---
 src: './custom/acknowledgements.md'
 ---
-
-
-
-
-
-<!-- 
-  
-  
-  ---
-  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/011-data-analysis-cwl-workflows-and-runs.md'
-  ---
-  
-  ---
-  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/012-metadata-annotation-from-data-to-result.md'
-  ---
-  
-  ---
-  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/013-everything-is-a-file.md'
-  ---
-  
-  ---
-  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/014-no-technical-lock-in.md'
-  ---
-  
-  ---
-  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/015-two-representations-of-the-arc.md'
-  ---
-  
-  ---
-  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
-  ---
-  
-
--->
