@@ -13,7 +13,7 @@ description: CEPLAS as a show-case
 fonts:
   sans: Gulim
 canvasWidth: 1000
-transition: fade
+transition: slide-left
 favicon: https://raw.githubusercontent.com/nfdi4plants/Branding/refs/heads/master/icons/DataPLANT/favicons/favicon_bg_darkblue.png
 drawings:
   enabled: true
@@ -39,53 +39,47 @@ layout: two-cols-header
 
 # Cluster of Excellence on Plant Sciences (CEPLAS)
 
-::left::
-
 ## SMART Plants in Dynamic Environments
+
+::left::
 
 <img src="./custom-images/ceplas-research-areas.png" />
 
 ::right::
 
-<img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" alt="CEPLAS Logo" width="280"/>
+<img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" alt="CEPLAS Logo" width="280" class="mb-10"/>
 
-- 5 **Research Areas**
-- 5 **Institutions**
+<!-- - 5 **Research Areas**
+- 5 **Institutions** -->
   <!-- - Heinrich Heine University Düsseldorf
   - University of Cologne
   - Max Planck Institute for Plant Breeding Research Cologne
   - Forschungszentrum Jülich
   - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK Gatersleben) -->
 
-<div style="display: grid; grid-template-columns: auto auto auto auto auto;">
-  
-  <img src="./custom-images/Logo_HHU_+Name_EN_horizontal_rgb_+Safezone.tif" />
-  <img src="./custom-images/logo_unikoeln.png" />
-  <img src="./custom-images/logo-UzK_LogoQuadrat.jpg" />
-  <img src="./custom-images/logo.FZJ.svg.png" />
-  <img src="./custom-images/logo-ipk.png" />
-<!--   
-    <img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" style="height: 60px;margin:50px; margin-left:0px" alt="CEPLAS" />
-    <img src="https://www.sfb1535.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/SFB1535/Bilder/MibiNet.png" style="height: 60px;margin:50px" alt="MibiNet" />
-    <img src="https://github.com/nfdi4plants/Branding/raw/master/logos/DataPLANT/DataPLANT_logo_bg_transparent.svg" style="height: 60px;margin:50px" alt="DataPLANT" /> -->
+<div class="mb-5" style="display: grid; grid-template-columns: auto auto auto auto auto;">  
+
+  <img src="./custom-images/Logo_HHU_+Name_EN_horizontal_rgb_+Safezone.tif" width = "70%"/>
+  <img src="./custom-images/logo_unikoeln.png"  width = "70%" />
+  <img src="./custom-images/logo.FZJ.svg.png"  width = "70%" />
+  <img src="./custom-images/Logo-mpi-2024-en.svg"  width = "90%" />
+  <img src="./custom-images/logo-ipk.png"  width = "70%" />
+
 </div>
 
-
-
-
-- **Technology platforms**
-  - metabolomics
-  - imaging
-  - data science and management
 - ~50 groups
-
+- Grad School
+- **Technology platforms**
+  - Metabolomics
+  - Imaging
+  - Data science and management
 
 ---
 
 
 # DataPLANT – *NFDI4plants*
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/84446e4430b78154927ff129a30e7109428a3973/figures/dataplant/dataplant-landing-page.png" style='display: block; width:70%; margin: auto'/>
+<img src="./custom-images/dataplant-service-landscape.svg" width="70%"/>
 
 <span class="flex flex-row justify-center">
   
@@ -129,19 +123,23 @@ Becoming FAIR will drive science and democratization of research data
 Enabling the community to participate in the RDM ecosystem
 </span>
 
----
+<!-- 
 
-# Growing community support
+  ---
+  
+  # Growing community support
+  
+  <img src="./custom-images/dataplant-growing-community-2026-03.svg" class="flex items-center justify-center h-full" width="90%"/>
+  
+  Many researchers use DataPLANT services as members, including the majority of coordinated research initiatives in plant science. 
 
-<img src="./custom-images/dataplant-growing-community-2026-03.svg" class="flex items-center justify-center h-full" width="90%"/>
-
-Many researchers use DataPLANT services as members, including the majority of coordinated research initiatives in plant science.
+-->
 
 ---
 
 # Data Stewardship for a growing community
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+<img src="./custom-images/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
 
 
 <!-- 
@@ -209,11 +207,15 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 
 # Git is a highly flexible collaboration tool
 
-<img src="./custom-images/arc-git.svg" class="flex items-center justify-center" width="70%"/>
+<img src="./custom-images/arc-git.svg" class="flex items-center justify-center" width="60%"/>
+
+<span class="flex justify-center mt-15">
 
 - Git is an open-source Version Control System
 - Fast & reliable as command line, native and web-based apps
 <!-- - Enables collaborative work on files and directories -->
+
+</span>
 
 <vClick>
 
@@ -243,18 +245,24 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 
 <img src="./custom-images/arc-collaborative.svg" class="flex items-center justify-center h-full" width="70%"/>
 
+<span class="flex justify-center mt-15">
+
 Together on a stepwise path to FAIR data and democratized research
+
+</span>
 
 
 ---
 
 # Collaborative Workflows
 
-## Domain specific conventions are easy to implement
+<img src="./custom-images/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="70%"/>
 
-<img src="./custom-images/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="80%"/>
+<span class="flex justify-center mt-15">
 
-<!-- TODO: replace CQC images-->
+Domain specific conventions are easy to implement
+
+</span>
 
 ---
 
@@ -264,7 +272,11 @@ Together on a stepwise path to FAIR data and democratized research
 
 <img src="./custom-images/arc-single-entry-point.svg" class="flex items-center justify-center h-full" width="70%"/>
 
+<span class="flex justify-center mt-15">
+
 ARC enables researchers to participate in a thriving RDM ecosystem without barriers
+
+</span>
 
 <vClick>
 
@@ -328,32 +340,11 @@ Continuous integration for seamless interoperation
 
 <img src="./custom-images/datahub-cqc-04.png" class="flex items-center justify-center" width="90%"/>
 
----
-layout: two-cols
----
-
-# Research Data Policy
-
-> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
-
-### Incentivizing FAIR data management
-
-No ARC - no Money 💰💰💰
-
-> "**Regulations for financing publications**"
-> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
-
-::right::
-
-<img src="./custom-images/ceplas-research-data-policy.png" width="90%"/>
-
-
----
-src: '../../EduBricks-EduPaths/EduBricks/dataplant/datahub-plantdatahub.md'
----
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
+---
+
 ---
 
 ## On-premise data hubs
@@ -368,23 +359,26 @@ src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
 
 # Two sides of the same coin
 
-<img src="./custom-images/todo/figure1-2_sides_of_the_same_coin.svg" class="flex items-center justify-center" width="100%"/>
+<img src="./custom-images/figure1-2_sides_of_the_same_coin.svg" class="flex items-center justify-center" width="100%"/>
+
+<span>
 
 Tool development and tool assistance
+
+</span>
 
 ---
 
 # Tool support
 
-<img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="70%"/>
+<img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="80%"/>
+
+
+<span class="flex justify-center">
 
 (Meta)data transparency with tool assistance but no technical lock-in
 
----
-
-# ARCitect
-
-<img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="100%"/>
+</span>
 
 ---
 
@@ -408,19 +402,39 @@ Community-driven tool development for all-in-one ARC management
 
 </vClick>
 
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 ---
 
+## ARCitect
 
-## Data Stewardship (within CEPLAS)
+<img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="80%"/>
 
-- Link: Knowledge Base
-- Link: Events
-- Link: Data Steward Circle
-- Link: ARC User support meeting
-- Link: Matrix channels
+<span class="flex justify-center">
+
+https://github.com/nfdi4plants/ARCitect
+
+</span>
+
+
+---
+layout: two-cols-header
+---
+
+# Data Stewardship & Continuous Support
+
+::left::
+
+- Help Desk: https://helpdesk.nfdi4plants.org
+- User Support chat: [#arc-user-support:matrix.org](https://matrix.to/#/#arc-user-support:matrix.org)
+- User Support Mailing List: <a href='mailto:arc-user-support-join@lists.nfdi.de?subject=subscribe&body=Hit send on this email to join the ARC user support mailing list'>arc-user-support-join@lists.nfdi.de</a>
+- Events https://nfdi4plants.org/events/
+  - Data Steward Circle
+  - Infrastructure Provider Circle
+  - User Support Meeting
+  - Trainings and workshops
+
+::right::
+
+![alt text](./custom-images/ARCClub.drawio.svg)
 
 ---
 
@@ -428,7 +442,11 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 
 <img src="./custom-images/arc-knowledge-base.svg" class="flex items-center justify-center" width="100%"/>
 
+<span class="flex justify-center">
+
 ARC-specific training is offered independently or integrated into international training resources
+
+</span>
 
 <vClick>
 
@@ -446,6 +464,18 @@ ARC-specific training is offered independently or integrated into international 
 
 ---
 
+# Growing specific training resources
+
+<img src="./custom-images/knowledgebase-demo.gif" class="flex items-center justify-center" width="70%"/>
+
+<span class="flex justify-center">
+
+https://nfdi4plants.org/nfdi4plants.knowledgebase/
+
+</span>
+
+---
+
 ## DMP support
 
 <img src="./custom-images/dataplan.svg" width="70%"/>
@@ -456,13 +486,29 @@ https://dmpg.nfdi4plants.org
 
 </span>
 
+
 ---
-src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
+layout: two-cols-header
 ---
+
+# Incentivizing FAIR data management
+
+::left::
+
+> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
+
+No ARC - No Money 💰💰💰
+
+> "**Regulations for financing publications**"
+> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
+
+
+::right::
+
+<img src="./custom-images/ceplas-research-data-policy.png" width="90%"/>
+
+
 
 ---
 src: './custom/acknowledgements.md'
 ---
-
-
-<!-- TODO: TRR logo -->
