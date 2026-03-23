@@ -230,14 +230,11 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 
 </vClick>
 
-
 ---
 
 # Learning from open-source software development
 
 <img src="./custom-images/arc-fdo-opensource.svg" class="flex items-center justify-center h-full" width="70%"/>
-
-
 
 ---
 
@@ -342,20 +339,6 @@ Continuous integration for seamless interoperation
 
 
 ---
-src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
----
-
----
-
-## On-premise data hubs
-  
-- HHU-DataHUB
-- ARC and Hub as middle-ware (to OMERO, elabFTW, Coscine?)
-- KeyCloak to central instance
-- Infrastructure Provider Circle
-
----
-
 
 # Two sides of the same coin
 
@@ -388,6 +371,33 @@ Tool development and tool assistance
 
 Community-driven tool development for all-in-one ARC management
 
+---
+
+## ARCitect
+
+<img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="80%"/>
+
+<span class="flex justify-center">
+
+https://github.com/nfdi4plants/ARCitect
+
+</span>
+
+---
+
+## elab2ARC
+
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/d1a6736d9261abe7ce7586802e3ca3acce366ab2/figures/elab2arc/elab2arc_connection.png" width="60%"  class="flex items-center justify-center h-full" />
+
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/d1a6736d9261abe7ce7586802e3ca3acce366ab2/figures/elab2arc/elab2arc_mapping.png" width="60%"  class="flex items-center justify-center h-full" />
+
+
+<span class="flex justify-center">
+
+https://github.com/nfdi4plants/elab2arc
+
+</span>
+
 <vClick>
 
 <Admonition title= "FDM-Werkstatt 2026" type="tip" style="position: absolute; top: 40%; width: 90%">
@@ -402,17 +412,7 @@ Community-driven tool development for all-in-one ARC management
 
 </vClick>
 
----
 
-## ARCitect
-
-<img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="80%"/>
-
-<span class="flex justify-center">
-
-https://github.com/nfdi4plants/ARCitect
-
-</span>
 
 
 ---
@@ -507,6 +507,17 @@ No ARC - No Money 💰💰💰
 
 <img src="./custom-images/ceplas-research-data-policy.png" width="90%"/>
 
+---
+
+## On-premise data hubs
+
+<img src="./custom-images/DataHUB-Network.drawio.png" class="flex items-center justify-center" width="90%"/>
+
+<!-- 
+- HHU-DataHUB
+- ARC and Hub as middle-ware (to OMERO, elabFTW, Coscine?)
+- KeyCloak to central instance
+- Infrastructure Provider Circle -->
 
 
 ---

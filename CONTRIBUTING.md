@@ -151,7 +151,7 @@ npm run dev -- slide-decks/2025-11-19_intro-rdm/slides.md
 You can directly export a slide deck to pdf using Slidev's browser controls or use the export command, e.g.
 
 ```bash
-npm run export -- slide-decks/2025-11-19_intro-rdm/slides.md --output slide-decks/2025-11-19_intro-rdm/slides.pdf
+npx slidev export slide-decks/2026-03-24_fdmw-dataplant-ceplas/slides.md --output slide-decks/2026-03-24_fdmw-dataplant-ceplas/slides.pdf
 ```
 
 ## Themes
