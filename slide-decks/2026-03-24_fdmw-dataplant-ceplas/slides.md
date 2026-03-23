@@ -39,31 +39,46 @@ layout: two-cols-header
 
 # Cluster of Excellence on Plant Sciences (CEPLAS)
 
-## SMART Plants in Dynamic Environments
-
 ::left::
+
+## SMART Plants in Dynamic Environments
 
 <img src="./custom-images/ceplas-research-areas.png" />
 
 ::right::
 
+<img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" alt="CEPLAS Logo" width="280"/>
+
 - 5 **Research Areas**
 - 5 **Institutions**
-  - Heinrich Heine University Düsseldorf
+  <!-- - Heinrich Heine University Düsseldorf
   - University of Cologne
   - Max Planck Institute for Plant Breeding Research Cologne
   - Forschungszentrum Jülich
-  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK Gatersleben)
+  - Leibniz Institute of Plant Genetics and Crop Plant Research (IPK Gatersleben) -->
+
+<div style="display: grid; grid-template-columns: auto auto auto auto auto;">
+  
+  <img src="./custom-images/Logo_HHU_+Name_EN_horizontal_rgb_+Safezone.tif" />
+  <img src="./custom-images/logo_unikoeln.png" />
+  <img src="./custom-images/logo-UzK_LogoQuadrat.jpg" />
+  <img src="./custom-images/logo.FZJ.svg.png" />
+  <img src="./custom-images/logo-ipk.png" />
+<!--   
+    <img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" style="height: 60px;margin:50px; margin-left:0px" alt="CEPLAS" />
+    <img src="https://www.sfb1535.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/SFB1535/Bilder/MibiNet.png" style="height: 60px;margin:50px" alt="MibiNet" />
+    <img src="https://github.com/nfdi4plants/Branding/raw/master/logos/DataPLANT/DataPLANT_logo_bg_transparent.svg" style="height: 60px;margin:50px" alt="DataPLANT" /> -->
+</div>
+
+
+
+
 - **Technology platforms**
   - metabolomics
   - imaging
   - data science and management
 - ~50 groups
 
-
-<div class="absolute top-10 right-5">
-  <img src="https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg" alt="CEPLAS Logo" width="280"/>
-</div>
 
 ---
 
@@ -116,6 +131,20 @@ Enabling the community to participate in the RDM ecosystem
 
 ---
 
+# Growing community support
+
+<img src="./custom-images/dataplant-growing-community-2026-03.svg" class="flex items-center justify-center h-full" width="90%"/>
+
+Many researchers use DataPLANT services as members, including the majority of coordinated research initiatives in plant science.
+
+---
+
+# Data Stewardship for a growing community
+
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+
+---
+
 # "You have a match" ;)
 
 <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
@@ -140,9 +169,6 @@ Enabling the community to participate in the RDM ecosystem
 
 -->
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
----
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/002-annotated-research-context.md'
@@ -150,10 +176,6 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/002-annotated-research-contex
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/003-the-arc-scaffold-structure.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-similarity.md'
 ---
 
 ---
@@ -178,24 +200,22 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/018-templates-sops.md'
 
 <img src="./custom-images/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="100%"/>
 
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
 ---
 
 
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-similarity.md'
+---
 
 ---
 
 # Learning from open-source software development
 
-
 <img src="./custom-images/arc-fdo-opensource.svg" class="flex items-center justify-center h-full" width="70%"/>
 
----
-
-# Collaborative RDM: Immutable yet evolving
-
-<img src="./custom-images/arc-collaborative.svg" class="flex items-center justify-center h-full" width="70%"/>
-
-Together on a stepwise path to FAIR data and democratized research
 
 ---
 
@@ -219,6 +239,16 @@ Together on a stepwise path to FAIR data and democratized research
 </Admonition>
 
 </vClick>
+
+
+---
+
+# Collaborative RDM: Immutable yet evolving
+
+<img src="./custom-images/arc-collaborative.svg" class="flex items-center justify-center h-full" width="70%"/>
+
+Together on a stepwise path to FAIR data and democratized research
+
 
 ---
 
@@ -300,16 +330,18 @@ layout: two-cols
 
 # Research Data Policy
 
-<img src="./custom-images/ceplas-research-data-policy.png" width="100%"/>
+> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
+
+### Incentivizing FAIR data management
+
+No ARC - no Money 💰💰💰
+
+> "**Regulations for financing publications**"
+> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
 
 ::right::
 
-> "CEPLAS research data are organized in ARCs stored in the PlantDataHub"
-
-Incentivizing FAIR data management – No ARC - no Money 
-
-> "**Regulations for financing publications**""
-> ... it was decided that CEPLAS will only cover the costs of publications if the data is stored via DataPlant/ARCs
+<img src="./custom-images/ceplas-research-data-policy.png" width="90%"/>
 
 
 ---
@@ -415,17 +447,17 @@ ARC-specific training is offered independently or integrated into international 
 
 </vClick>
 
+---
+
 ## DMP support
 
-<img src="./custom-images/dataplan.svg" width="80%"/>
+<img src="./custom-images/dataplan.svg" width="70%"/>
+
+<span class="flex justify-center">
 
 https://dmpg.nfdi4plants.org
 
----
-
-# Data Stewardship for a growing community
-
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/3aa09c38a1b5422517252c6803d964aa2ca4cc6d/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+</span>
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
@@ -434,3 +466,6 @@ src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
 ---
 src: './custom/acknowledgements.md'
 ---
+
+
+<!-- TODO: TRR logo -->
