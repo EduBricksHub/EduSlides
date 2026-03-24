@@ -1,10 +1,10 @@
 ---
 theme: ../../themes/slidev-theme-dataplant-ceplas
-themeConfig:
-  paginationX: r
-  paginationY: b
-  paginationPagesDisabled: [ 1 ]
-  logoPagesDisabled: [ 1 ]
+# themeConfig:
+#   paginationX: r
+#   paginationY: b
+#   paginationPagesDisabled: [ 1 ]
+#   logoPagesDisabled: [ 1 ]
 date: 2026-03-24
 coverDate: March 24th, 2026
 title: DataPLANT Services and how they support RDM in the community
@@ -387,9 +387,9 @@ https://github.com/nfdi4plants/ARCitect
 
 ## elab2ARC
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/d1a6736d9261abe7ce7586802e3ca3acce366ab2/figures/elab2arc/elab2arc_connection.png" width="60%"  class="flex items-center justify-center h-full" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/d1a6736d9261abe7ce7586802e3ca3acce366ab2/figures/elab2arc/elab2arc_connection.png" width="50%"  class="flex items-center justify-center h-full" />
 
-<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/d1a6736d9261abe7ce7586802e3ca3acce366ab2/figures/elab2arc/elab2arc_mapping.png" width="60%"  class="flex items-center justify-center h-full" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/d1a6736d9261abe7ce7586802e3ca3acce366ab2/figures/elab2arc/elab2arc_mapping.png" width="50%"  class="flex items-center justify-center h-full" />
 
 
 <span class="flex justify-center">

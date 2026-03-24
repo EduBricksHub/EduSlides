@@ -3,14 +3,14 @@
 <style>
   
   p,ul {
-    font-size:0.6em;
+    font-size:0.55em;
     margin-left: 2.5em;
     margin-top: 1.2em;
     }
 
 </style>
 
-<div class="grid grid-cols-2 ml-40" style="grid-template-rows: 10em">
+<div class="grid grid-cols-2 ml-40" style="grid-template-rows: 5em">
 
   <div>
 
@@ -52,9 +52,10 @@
 
   - Sabrina Zander
   
-  <img src="./custom-images/trr341_logo.png" width="25%" />
+  <img src="/Users/dominikbrilhaus/github/EduBricksHub/EduSlides/slide-decks/2026-03-24_fdmw-dataplant-ceplas/custom-images/trr341_logo.png" width="35%" />
 
   - Eik Dahms
+  - Jan Breder
   
   </div>
 </div>
