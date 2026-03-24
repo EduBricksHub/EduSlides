@@ -86,7 +86,7 @@ layout: two-cols-header
 
 <img src="./custom-images/dataplant-service-landscape.svg" width="70%"/>
 
-<span class="flex flex-row justify-center">
+<span class="flex flex-row justify-center mt-15">
   
   https://nfdi4plants.org
 
@@ -357,6 +357,21 @@ Tool development and tool assistance
 
 ---
 
+# ARCtrl
+
+The ARC library for F#, Python and JavaScript
+
+<img src="https://github.com/nfdi4plants/ARCtrl/raw/main/logos/ARCtrl_horizontal.png" class="flex items-center justify-center" width="50%"/>
+
+<span>
+
+https://github.com/nfdi4plants/arctrl
+
+</span>
+
+
+---
+
 # Tool support
 
 <img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="80%"/>
@@ -372,7 +387,7 @@ Tool development and tool assistance
 
 # From tool development to tool assistance
 
-<img src="./custom-images/arc-tools.svg" class="flex items-center justify-center" width="100%"/>
+<img src="./custom-images/arc-tools.png" class="flex items-center justify-center" width="100%"/>
 
 Community-driven tool development for all-in-one ARC management
 
@@ -528,13 +543,3 @@ No ARC - No Money 💰💰💰
 ---
 src: './custom/acknowledgements.md'
 ---
-
----
-
-# Questions?
-
-→ Join me at Hausbrauerei **Zum Schlüssel** tonight 😉 🍻 🥗
-
-https://www.zumschluessel.de
-
-<img src="https://www.zumschluessel.de/wp-content/uploads/2023/06/schluessel-wappen.svg" width="80%"/>
