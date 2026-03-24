@@ -1,10 +1,10 @@
 ---
 theme: ../../themes/slidev-theme-dataplant-ceplas
-# themeConfig:
-#   paginationX: r
-#   paginationY: b
-#   paginationPagesDisabled: [ 1 ]
-#   logoPagesDisabled: [ 1 ]
+themeConfig:
+  paginationX: r
+  paginationY: b
+  paginationPagesDisabled: [ 1 ]
+  logoPagesDisabled: [ 1 ]
 date: 2026-03-24
 coverDate: March 24th, 2026
 title: DataPLANT Services and how they support RDM in the community
@@ -20,6 +20,12 @@ drawings:
   persist: false
 layout: cover
 ---
+
+
+
+
+
+
 
 # DataPLANT Tools & Services
 
@@ -43,7 +49,7 @@ layout: two-cols-header
 
 ::left::
 
-<img src="./custom-images/ceplas-research-areas.png" />
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/ceplas/ceplas-research-areas.png" />
 
 ::right::
 
@@ -59,11 +65,11 @@ layout: two-cols-header
 
 <div class="mb-5" style="display: grid; grid-template-columns: auto auto auto auto auto;">  
 
-  <img src="./custom-images/Logo_HHU_+Name_EN_horizontal_rgb_+Safezone.tif" width = "70%"/>
-  <img src="./custom-images/logo_unikoeln.png"  width = "70%" />
-  <img src="./custom-images/logo.FZJ.svg.png"  width = "70%" />
-  <img src="./custom-images/Logo-mpi-2024-en.svg"  width = "90%" />
-  <img src="./custom-images/logo-ipk.png"  width = "70%" />
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/logos/ceplas/Logo_HHU_+Name_EN_horizontal_rgb_+Safezone.tif" width = "70%"/>
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/logos/ceplas/logo_unikoeln.png"  width = "70%" />
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/logos/ceplas/logo.FZJ.svg.png"  width = "70%" />
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/logos/ceplas/Logo-mpi-2024-en.svg"  width = "90%" />
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/logos/ceplas/logo-ipk.png"  width = "70%" />
 
 </div>
 
@@ -84,7 +90,7 @@ layout: two-cols-header
 
 # DataPLANT: tailor-made service landscape
 
-<img src="./custom-images/dataplant-service-landscape.svg" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/dataplant-service-landscape.svg" width="70%"/>
 
 <span class="flex flex-row justify-center mt-15">
   
@@ -96,7 +102,7 @@ layout: two-cols-header
 
 # Driving the ’Digital Change’ in science
 
-<img src="./custom-images/data-to-knowledge01.svg" class="flex items-center justify-center h-full" width="100%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/data-to-knowledge01.svg" class="flex items-center justify-center h-full" width="100%"/>
 
 <span class="flex justify-center">
 Becoming FAIR will drive science and democratization of research data
@@ -108,7 +114,7 @@ Becoming FAIR will drive science and democratization of research data
   
   # Making data a primary product in science
   
-  <img src="./custom-images/data-to-knowledge02.svg" class="flex items-center justify-center h-full" width="80%"/>
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/data-to-knowledge02.svg" class="flex items-center justify-center h-full" width="80%"/>
   
   ## Data itself has value for science
   
@@ -122,7 +128,7 @@ Becoming FAIR will drive science and democratization of research data
 
 # Transformation towards new competencies
 
-<img src="./custom-images/data-literacy.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/data-literacy.svg" class="flex items-center justify-center h-full" width="70%"/>
 
 <span class="flex justify-center">
 Enabling the community to participate in the RDM ecosystem
@@ -134,7 +140,7 @@ Enabling the community to participate in the RDM ecosystem
   
   # Growing community support
   
-  <img src="./custom-images/dataplant-growing-community-2026-03.svg" class="flex items-center justify-center h-full" width="90%"/>
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/dataplant-growing-community-2026-03.svg" class="flex items-center justify-center h-full" width="90%"/>
   
   Many researchers use DataPLANT services as members, including the majority of coordinated research initiatives in plant science. 
 
@@ -144,7 +150,7 @@ Enabling the community to participate in the RDM ecosystem
 
 # Data Stewardship for a growing community
 
-<img src="./custom-images/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />
 
 
 <!-- 
@@ -154,13 +160,13 @@ Enabling the community to participate in the RDM ecosystem
   
   # Accelerating results with actionable data
   
-  <img src="./custom-images/accelerating-results.svg" class="flex items-center justify-center h-full" width="60%"/>
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/accelerating-results.svg" class="flex items-center justify-center h-full" width="60%"/>
   
   ---
   
   ## The Challenge of FAIR and content standards
   
-  <img src="./custom-images/fair-challenge-standards.svg" class="flex items-center justify-center h-full" width="70%"/>
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/fair-challenge-standards.svg" class="flex items-center justify-center h-full" width="70%"/>
   
   Diverse methods in plant science require researchers to navigate over 600 technology- and method-specific content standards
 
@@ -196,7 +202,7 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/018-templates-sops.md'
 
 ## RDM to support Core Facilities
 
-<img src="./custom-images/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="100%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/core-facility-collaboration.svg " class="flex items-center justify-center h-full" width="100%"/>
 
 
 ---
@@ -212,7 +218,7 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 
 # Git is a highly flexible collaboration tool
 
-<img src="./custom-images/arc-git.svg" class="flex items-center justify-center" width="60%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-git.svg" class="flex items-center justify-center" width="60%"/>
 
 <span class="flex justify-center mt-15">
 
@@ -239,13 +245,13 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-
 
 # Learning from open-source software development
 
-<img src="./custom-images/arc-fdo-opensource.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-fdo-opensource.svg" class="flex items-center justify-center h-full" width="70%"/>
 
 ---
 
 # Collaborative RDM: Immutable yet evolving
 
-<img src="./custom-images/arc-collaborative.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-collaborative.svg" class="flex items-center justify-center h-full" width="70%"/>
 
 <span class="flex justify-center mt-15">
 
@@ -258,7 +264,7 @@ Together on a stepwise path to FAIR data and democratized research
 
 # Collaborative Workflows
 
-<img src="./custom-images/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-collaborative-workflows.svg" class="flex items-center justify-center h-full" width="70%"/>
 
 <span class="flex justify-center mt-15">
 
@@ -272,7 +278,7 @@ Domain specific conventions are easy to implement
 
 <!-- ### Empowering plant researchers by simplifying complexity -->
 
-<img src="./custom-images/arc-single-entry-point.svg" class="flex items-center justify-center h-full" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-single-entry-point.svg" class="flex items-center justify-center h-full" width="70%"/>
 
 <span class="flex justify-center mt-15">
 
@@ -297,7 +303,7 @@ ARC enables researchers to participate in a thriving RDM ecosystem without barri
 
 # ARChive: DataPLANT's ARC publication platform
 
-<img src="./custom-images/archive-demo.gif" width="65%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/archive-demo.gif" width="65%"/>
 
 <span class="flex justify-center">
 
@@ -309,13 +315,13 @@ https://archive.nfdi4plants.org
 
 # ARC revision and publication
 
-<img src="./custom-images/figure2-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
 
 ---
 
 # Automatization: “Build and validate”
 
-<img src="./custom-images/datahub-ci.svg" class="flex items-center justify-center" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/plantdatahub/datahub-ci.svg" class="flex items-center justify-center" width="70%"/>
 
 Continuous integration for seamless interoperation
 
@@ -323,31 +329,31 @@ Continuous integration for seamless interoperation
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-01.png" class="flex items-center justify-center" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/plantdatahub/datahub-cqc-01.png" class="flex items-center justify-center" width="90%"/>
 
 ---
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-02.png" class="flex items-center justify-center" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/plantdatahub/datahub-cqc-02.png" class="flex items-center justify-center" width="90%"/>
 
 ---
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-03.png" class="flex items-center justify-center" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/plantdatahub/datahub-cqc-03.png" class="flex items-center justify-center" width="90%"/>
 ---
 
 # Validation and quality control
 
-<img src="./custom-images/datahub-cqc-04.png" class="flex items-center justify-center" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/plantdatahub/datahub-cqc-04.png" class="flex items-center justify-center" width="90%"/>
 
 
 ---
 
 # Two sides of the same coin
 
-<img src="./custom-images/figure1-2_sides_of_the_same_coin.svg" class="flex items-center justify-center" width="100%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-2_sides_of_the_same_coin.svg" class="flex items-center justify-center" width="100%"/>
 
 <span>
 
@@ -374,7 +380,7 @@ https://github.com/nfdi4plants/arctrl
 
 # Tool support
 
-<img src="./custom-images/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="80%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-tools-no-lockin.svg" class="flex items-center justify-center" width="80%"/>
 
 
 <span class="flex justify-center">
@@ -387,7 +393,7 @@ https://github.com/nfdi4plants/arctrl
 
 # From tool development to tool assistance
 
-<img src="./custom-images/arc-tools.png" class="flex items-center justify-center" width="100%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-tools.png" class="flex items-center justify-center" width="100%"/>
 
 Community-driven tool development for all-in-one ARC management
 
@@ -395,7 +401,7 @@ Community-driven tool development for all-in-one ARC management
 
 ## ARCitect
 
-<img src="./custom-images/arcitect-demo.gif" class="flex items-center justify-center" width="80%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arcitect-demo.gif" class="flex items-center justify-center" width="80%"/>
 
 <span class="flex justify-center">
 
@@ -454,13 +460,13 @@ layout: two-cols-header
 
 ::right::
 
-![alt text](./custom-images/ARCClub.drawio.svg)
+![alt text](https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/ceplas/ARCClub.drawio.svg)
 
 ---
 
 # Growing specific training resources
 
-<img src="./custom-images/arc-knowledge-base.svg" class="flex items-center justify-center" width="100%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/arc-knowledge-base.svg" class="flex items-center justify-center" width="100%"/>
 
 <span class="flex justify-center">
 
@@ -486,7 +492,7 @@ ARC-specific training is offered independently or integrated into international 
 
 # Growing specific training resources
 
-<img src="./custom-images/knowledgebase-demo.gif" class="flex items-center justify-center" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/knowledgebase-demo.gif" class="flex items-center justify-center" width="70%"/>
 
 <span class="flex justify-center">
 
@@ -498,7 +504,7 @@ https://nfdi4plants.org/nfdi4plants.knowledgebase/
 
 ## DMP support
 
-<img src="./custom-images/dataplan.svg" width="70%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/dataplan.svg" width="70%"/>
 
 <span class="flex justify-center">
 
@@ -525,13 +531,13 @@ No ARC - No Money 💰💰💰
 
 ::right::
 
-<img src="./custom-images/ceplas-research-data-policy.png" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/ceplas/ceplas-research-data-policy.png" width="90%"/>
 
 ---
 
 ## On-premise data hubs
 
-<img src="./custom-images/DataHUB-Network.drawio.png" class="flex items-center justify-center" width="90%"/>
+<img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/figures/dataplant/DataHUB-Network.drawio.png" class="flex items-center justify-center" width="90%"/>
 
 <!-- 
 - HHU-DataHUB
@@ -541,5 +547,5 @@ No ARC - No Money 💰💰💰
 
 
 ---
-src: './custom/acknowledgements.md'
+src: ./custom/acknowledgements.md
 ---

@@ -52,7 +52,7 @@
 
   - Sabrina Zander
   
-  <img src="/Users/dominikbrilhaus/github/EduBricksHub/EduSlides/slide-decks/2026-03-24_fdmw-dataplant-ceplas/custom-images/trr341_logo.png" width="35%" />
+  <img src="https://raw.githubusercontent.com/EduBricksHub/EduImages/ae703571d2ade31ef52941bdeaa80ce564f95698/logos/ceplas/trr341_logo.png" width="35%" />
 
   - Eik Dahms
   - Jan Breder
