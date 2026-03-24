@@ -15,6 +15,16 @@ export default [
       : "/2026-03-24_fdm-werkstatt/"
   },
   {
+    id: "2026-03-24_fdmw-dataplant-ceplas",
+    title: "DataPLANT Services and how they support RDM in the community",
+    description: "CEPLAS as a show-case",
+    author: "Dominik Brilhaus",
+    date: "2026-03-24",
+    url: dev
+      ? "http://localhost:3036"
+      : "/2026-03-24_fdmw-dataplant-ceplas/"
+  },
+  {
     id: "2026-02-11_arcify",
     title: "ARCify your research project",
     description: "Introducing ARC with a hands-on demo.",
