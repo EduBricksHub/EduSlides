@@ -67,17 +67,22 @@ layout: two-cols-header
 
 </div>
 
-- ~50 groups
-- Grad School
+<div style="font-size: 0.9em">
+
+- ~60 Groups | ~40 PostDocs | ~60 PhD students
+- Graduate School
 - **Technology platforms**
   - Metabolomics
   - Imaging
   - Data science and management
 
+</div>
+
+
 ---
 
 
-# DataPLANT – *NFDI4plants*
+# DataPLANT: tailor-made service landscape
 
 <img src="./custom-images/dataplant-service-landscape.svg" width="70%"/>
 
@@ -304,7 +309,7 @@ https://archive.nfdi4plants.org
 
 # ARC revision and publication
 
-<img src="./custom-images/todo/figure2-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
+<img src="./custom-images/figure2-publication_pipeline.svg" class="flex items-center justify-center" width="90%"/>
 
 ---
 
@@ -523,3 +528,13 @@ No ARC - No Money 💰💰💰
 ---
 src: './custom/acknowledgements.md'
 ---
+
+---
+
+# Questions?
+
+→ Join me at Hausbrauerei **Zum Schlüssel** tonight 😉 🍻 🥗
+
+https://www.zumschluessel.de
+
+<img src="https://www.zumschluessel.de/wp-content/uploads/2023/06/schluessel-wappen.svg" width="80%"/>
