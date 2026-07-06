@@ -124,6 +124,13 @@ To include EduBricks as git submodule, use the following command to add it to yo
 git submodule update --init --recursive
 ```
 
+To update the submodule to the latest commit, run
+
+```bash
+git submodule update --remote
+```
+
+
 ### Install Slidev and other dependencies
 
 ```bash
