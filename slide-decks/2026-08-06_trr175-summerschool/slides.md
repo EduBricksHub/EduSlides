@@ -9,7 +9,7 @@ themeConfig:
   logoPagesDisabled: [ 1 ]
 date: 2026-08-06
 coverDate: August 6th, 2026
-title: ARCify your research project
+title: "fAIrification: From Annotation to AI Readiness"
 author: Dominik Brilhaus
 description: Hands-on ARC training – PlantAI Summer School of TRR 175 „The Green Hub“
 fonts:
