@@ -5,7 +5,7 @@
   p,ul {
     font-size:0.7em;
     margin-left: 2.5em;
-    margin-top: 1.2em;
+    margin-top: 1em;
     }
 
 </style>

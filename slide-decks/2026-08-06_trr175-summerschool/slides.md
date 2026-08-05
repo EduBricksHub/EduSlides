@@ -14,7 +14,7 @@ author: Dominik Brilhaus
 description: Hands-on ARC training – PlantAI Summer School of TRR 175 „The Green Hub“
 fonts:
   sans: Gulim
-# canvasWidth: 1200
+canvasWidth: 1200
 transition: slide-left
 favicon: https://raw.githubusercontent.com/nfdi4plants/Branding/refs/heads/master/icons/DataPLANT/favicons/favicon_bg_darkblue.png
 drawings:
@@ -73,16 +73,15 @@ src: ../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-archive.md
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/arc-revision-and-publication.md
 ---
 
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/validation-and-quality-control.md
----
+<!-- 
+  ---
+  src: ../../EduBricks-EduPaths/EduBricks/dataplant/validation-and-quality-control.md
+  --- 
+-->
+
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
----
-
----
-src: './custom/acknowledgements.md'
 ---
 
 ---
@@ -123,42 +122,18 @@ src: custom/exercise-starthere-checkpoint-1.md
 src: custom/exercise-starthere-checkpoint-2.md
 ---
 
-
----
----
-
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/automatization-build-and-validate.md
----
-
 ---
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/collaborative-rdm-immutable-yet-evolving.md
+---
+
+---
+src: ../../EduBricks-EduPaths/EduBricks/dataplant/git-is-a-highly-flexible-collaboration-tool.md
 ---
 
 ---
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/collaborative-workflows.md
 ---
 
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/data-stewardship-continuous-support.md
----
-
-
-
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/dmp-support.md
----
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/driving-the-digital-change.md
----
-
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/git-is-a-highly-flexible-collaboration-tool.md
----
 
 ---
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/growing-specific-training-resources-gif.md
@@ -168,47 +143,8 @@ src: ../../EduBricks-EduPaths/EduBricks/dataplant/growing-specific-training-reso
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/growing-specific-training-resources.md
 ---
 
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/learning-from-open-source-software-development.md
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/ceplas/datahub-onpremise-hhu.md'
----
 
 
 ---
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/on-premise-data-hubs.md
+src: './custom/acknowledgements.md'
 ---
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/rdm-to-support-core-facilities.md
----
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/transformation-towards-new-competencies.md
----
-
-
-
-
-
----
-# src: ../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-publication-outlets.md
----
-
-
-
----
-src: ../../EduBricks-EduPaths/EduBricks/arc-tools/arctrl.md
----
-
-
-
-
-
----
-src: '../../EduBricks/arc-intro/002-annotated-research-context.md'
----
-
-
