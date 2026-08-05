@@ -93,21 +93,25 @@ src: '../../EduBricks-EduPaths/EduBricks/arc-intro/011-data-analysis-cwl-workflo
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/012-metadata-annotation-from-data-to-result.md'
 ---
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/013-everything-is-a-file.md'
----
+<!-- 
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/014-no-technical-lock-in.md'
----
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/013-everything-is-a-file.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/014-no-technical-lock-in.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/015-two-representations-of-the-arc.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
+  ---
 
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/015-two-representations-of-the-arc.md'
----
-
----
-src: '../../EduBricks-EduPaths/EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
----
+-->
 
 
 ---
