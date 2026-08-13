@@ -50,8 +50,69 @@ src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
 ---
 
 ---
-src: ../../EduBricks-EduPaths/EduPaths/arc-overview.md
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/002-annotated-research-context.md'
 ---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/003-the-arc-scaffold-structure.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/004-isa-abstract-model-in-a-nutshell.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/006-metadata-annotation-from-sample-to-data.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/007-modular-separation-of-experimental-processes.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/008-modular-separation-of-experimental-processes.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/018-templates-sops.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/005-isa-and-cwl-connected-by-similarity.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/011-data-analysis-cwl-workflows-and-runs.md'
+---
+
+---
+src: '../../EduBricks-EduPaths/EduBricks/arc-intro/012-metadata-annotation-from-data-to-result.md'
+---
+
+<!-- 
+
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/013-everything-is-a-file.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/014-no-technical-lock-in.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/015-two-representations-of-the-arc.md'
+  ---
+  
+  ---
+  src: '../../EduBricks-EduPaths/EduBricks/arc-intro/016-two-sides-of-the-same-coin.md'
+  ---
+
+-->
+
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/001-arc-standards.md'
@@ -72,12 +133,6 @@ src: ../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-archive.md
 ---
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/arc-revision-and-publication.md
 ---
-
-<!-- 
-  ---
-  src: ../../EduBricks-EduPaths/EduBricks/dataplant/validation-and-quality-control.md
-  --- 
--->
 
 
 ---
@@ -101,13 +156,18 @@ layout: two-cols-header
 
 ::right::
 
+
 ## Interactive pad
 
 <a href="https://t1p.de/qx7ih">
   <img src="./custom/qr-code-pad.png" style="width: 80%;" />
 </a>
 
+<span class="flex justify-center">
+
 https://t1p.de/qx7ih
+
+</span>
 
 
 ---
@@ -121,29 +181,6 @@ src: custom/exercise-starthere-checkpoint-1.md
 ---
 src: custom/exercise-starthere-checkpoint-2.md
 ---
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/collaborative-rdm-immutable-yet-evolving.md
----
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/git-is-a-highly-flexible-collaboration-tool.md
----
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/collaborative-workflows.md
----
-
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/growing-specific-training-resources-gif.md
----
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/growing-specific-training-resources.md
----
-
-
 
 ---
 src: './custom/acknowledgements.md'
