@@ -5,6 +5,26 @@ const dev = import.meta.env.DEV
 
 export default [
   {
+    id: "2026-09-16_bbb-arc-handson",
+    title: "Hands-On ARC Training",
+    description: "Are you ready to elevate your research data management and ensure the reproducibility of your work? Join our interactive hands-on session to master the Annotated Research Context (ARC), a comprehensive framework for organizing and documenting your research data.",
+    author: "Dominik Brilhaus",
+    date: "2026-09-16",
+    url: dev
+      ? "http://localhost:3040"
+      : "/2026-09-16_bbb-arc-handson/"
+  },
+  {
+    id: "2026-08-13_arcify",
+    title: "ARCify your research project",
+    description: "Introducing ARC with a hands-on demo.",
+    author: "Dominik Brilhaus",
+    date: "2026-08-13",
+    url: dev
+      ? "http://localhost:3039"
+      : "/2026-08-13_arcify/"
+  },
+  {
     id: "2026-08-06_trr175-summerschool",
     title: "fAIrification: From Annotation to AI Readiness",
     description: "Hands-on ARC training – PlantAI Summer School of TRR 175 „The Green Hub“",
