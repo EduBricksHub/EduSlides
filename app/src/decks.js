@@ -5,6 +5,16 @@ const dev = import.meta.env.DEV
 
 export default [
   {
+    id: "2026-09-16_bbb-arc-handson",
+    title: "Hands-On ARC Training",
+    description: "|",
+    author: "Dominik Brilhaus",
+    date: "2026-09-16",
+    url: dev
+      ? "http://localhost:3040"
+      : "/2026-09-16_bbb-arc-handson/"
+  },
+  {
     id: "2026-08-13_arcify",
     title: "ARCify your research project",
     description: "Introducing ARC with a hands-on demo.",
