@@ -5,6 +5,16 @@ const dev = import.meta.env.DEV
 
 export default [
   {
+    id: "2026-08-13_arcify",
+    title: "ARCify your research project",
+    description: "Introducing ARC with a hands-on demo.",
+    author: "Dominik Brilhaus",
+    date: "2026-08-13",
+    url: dev
+      ? "http://localhost:3039"
+      : "/2026-08-13_arcify/"
+  },
+  {
     id: "2026-08-06_trr175-summerschool",
     title: "fAIrification: From Annotation to AI Readiness",
     description: "Hands-on ARC training – PlantAI Summer School of TRR 175 „The Green Hub“",
