@@ -7,7 +7,7 @@ export default [
   {
     id: "2026-09-16_bbb-arc-handson",
     title: "Hands-On ARC Training",
-    description: "|",
+    description: "Are you ready to elevate your research data management and ensure the reproducibility of your work? Join our interactive hands-on session to master the Annotated Research Context (ARC), a comprehensive framework for organizing and documenting your research data.",
     author: "Dominik Brilhaus",
     date: "2026-09-16",
     url: dev

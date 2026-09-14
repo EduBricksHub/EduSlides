@@ -11,7 +11,7 @@ date: 2026-09-16
 coverDate: September 16th, 2026
 title: Hands-On ARC Training
 author: Dominik Brilhaus
-description: "Are you ready to elevate your research data management and ensure the reproducibility of your work? Join our interactive hands-on session to master the Annotated Research Context (ARC), a comprehensive framework for organizing and documenting your research data."
+description: "Interactive hands-on session to master the ARC, a comprehensive framework for organizing and documenting your research data."
 fonts:
   sans: Gulim
 canvasWidth: 1200
