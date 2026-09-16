@@ -29,6 +29,7 @@ layout: cover
 - Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/ceplas-data)
 
 
+
 ---
 src: ./custom/participants.md
 ---
@@ -50,8 +51,16 @@ src: ../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-tailor-made-service-
 ---
 
 ---
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/data-stewardship-for-a-growing-community.md
+
+# Data Stewardship for a growing community
+
+<img src="./custom/datastewardship-loop.svg" style='display: block; width:120%; margin: auto' />
+
 ---
+
+# Data Stewardship interaction platforms
+
+<img src="./custom/data-stewardship-interactions.svg" style='display: block; width:150%; margin: auto' />
 
 ---
 src: '../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-resources.md'
@@ -128,23 +137,16 @@ src: ../../EduBricks-EduPaths/EduBricks/dataplant/dataplant-archive.md
 src: ../../EduBricks-EduPaths/EduBricks/dataplant/arc-revision-and-publication.md
 ---
 
-
----
-src: ../../EduBricks-EduPaths/EduBricks/dataplant/validation-and-quality-control.md
----
-
 ---
 src: '../../EduBricks-EduPaths/EduBricks/arc-intro/017-arc-ecosystem.md'
 ---
 
-
+---
+src: ../../EduBricks-EduPaths/EduBricks/arc-tools/arcitect.md
+---
 
 ---
 src: './custom/goals.md'
----
-
----
-src: ../../EduBricks-EduPaths/EduBricks/arc-tools/arcitect.md
 ---
 
 ---
@@ -153,5 +155,9 @@ src: custom/exercise-starthere-checkpoint-1.md
 
 ---
 src: custom/exercise-starthere-checkpoint-2.md
+---
+
+---
+src: custom/exercise-starthere-checkpoint-3.md
 ---
 

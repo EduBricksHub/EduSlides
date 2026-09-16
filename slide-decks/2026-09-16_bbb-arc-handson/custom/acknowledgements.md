@@ -23,9 +23,12 @@ ul {
   ##### Team Kaiserslautern
 
   - Timo Mühlhaus
-  - Lukas Weil
-  - Kevin Frey
+  - Cristina Schmale Rodrigues
+  - Heinrich Lukas Weil
   - Kevin Schneider
+  - Kevin Frey
+  - Caroline Ott
+  - Patrick Blume
   - Jonas Lukasczyk
 
   </div>
@@ -38,6 +41,7 @@ ul {
   - Jonathan Bauer
   - Marcel Tschöpe
   - Julian Weidhase
+  - Saskia Hiltemann
 
   </div>
 
