@@ -18,7 +18,7 @@ layout: two-cols-header
 
 ## Interactive pad
 
-<a href="https://t1p.de/bbb-arc">
+<a href="https://t1p.de/bbb-arc" target="_blank">
   <img src="./t1p-de-bbb-arc.svg" style="width: 70%;" />
 </a>
 
