@@ -5,6 +5,16 @@ const dev = import.meta.env.DEV
 
 export default [
   {
+    id: "2026-10-20_fairagro-phenorob",
+    title: "Hands-On ARC Training",
+    description: "Hands-on introduction to ARCs for FAIRagro / Phenorob",
+    author: "Dominik Brilhaus",
+    date: "2026-10-20",
+    url: dev
+      ? "http://localhost:3041"
+      : "/2026-10-20_fairagro-phenorob/"
+  },
+  {
     id: "2026-09-16_bbb-arc-handson",
     title: "Hands-On ARC Training",
     description: "Interactive hands-on session to master the ARC, a comprehensive framework for organizing and documenting your research data.",
